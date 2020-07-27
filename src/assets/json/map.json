@@ -1,0 +1,5786 @@
+{
+  "result": {
+    "title": "地图",
+    "data": {
+      "mapBoard": {
+        "orgId": 1,
+        "orgPath": ".1",
+        "orgName": "东风南方保险代理有限公司",
+        "premium": 854471686.0,
+        "policiesQuantity": 203043,
+        "commission": 114364217.0,
+        "child": [
+          {
+            "name": "深圳",
+            "value": {
+              "orgId": 2,
+              "orgPath": ".1.2",
+              "orgName": "深圳",
+              "premium": 87521818.0,
+              "policiesQuantity": 20765,
+              "commission": 9129037.0,
+              "child": [
+                {
+                  "name": "深圳华新日产",
+                  "value": {
+                    "orgId": 3,
+                    "orgPath": ".1.2.3",
+                    "orgName": "深圳华新日产",
+                    "premium": 11888598.0,
+                    "policiesQuantity": 3221,
+                    "commission": 1222781.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华旭日产",
+                  "value": {
+                    "orgId": 4,
+                    "orgPath": ".1.2.4",
+                    "orgName": "深圳华旭日产",
+                    "premium": 7227486.0,
+                    "policiesQuantity": 1895,
+                    "commission": 743781.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华鹏日产",
+                  "value": {
+                    "orgId": 5,
+                    "orgPath": ".1.2.5",
+                    "orgName": "深圳华鹏日产",
+                    "premium": 4739682.0,
+                    "policiesQuantity": 1260,
+                    "commission": 488273.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华翔日产",
+                  "value": {
+                    "orgId": 6,
+                    "orgPath": ".1.2.6",
+                    "orgName": "深圳华翔日产",
+                    "premium": 14082632.0,
+                    "policiesQuantity": 3331,
+                    "commission": 1465140.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华龙日产",
+                  "value": {
+                    "orgId": 8,
+                    "orgPath": ".1.2.8",
+                    "orgName": "深圳华龙日产",
+                    "premium": 8387279.0,
+                    "policiesQuantity": 2190,
+                    "commission": 865090.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华瑞日产",
+                  "value": {
+                    "orgId": 9,
+                    "orgPath": ".1.2.9",
+                    "orgName": "深圳华瑞日产",
+                    "premium": 8404331.0,
+                    "policiesQuantity": 2223,
+                    "commission": 858889.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华景日产",
+                  "value": {
+                    "orgId": 10,
+                    "orgPath": ".1.2.10",
+                    "orgName": "深圳华景日产",
+                    "premium": 5750338.0,
+                    "policiesQuantity": 1356,
+                    "commission": 597432.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华昌日产",
+                  "value": {
+                    "orgId": 11,
+                    "orgPath": ".1.2.11",
+                    "orgName": "深圳华昌日产",
+                    "premium": 3706606.0,
+                    "policiesQuantity": 893,
+                    "commission": 383187.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华盛日产",
+                  "value": {
+                    "orgId": 12,
+                    "orgPath": ".1.2.12",
+                    "orgName": "深圳华盛日产",
+                    "premium": 4598924.0,
+                    "policiesQuantity": 1063,
+                    "commission": 478170.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "香蜜湖英菲尼迪",
+                  "value": {
+                    "orgId": 16,
+                    "orgPath": ".1.2.16",
+                    "orgName": "香蜜湖英菲尼迪",
+                    "premium": 8379562.0,
+                    "policiesQuantity": 1380,
+                    "commission": 914961.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华龙启辰",
+                  "value": {
+                    "orgId": 17,
+                    "orgPath": ".1.2.17",
+                    "orgName": "深圳华龙启辰",
+                    "premium": 1860466.0,
+                    "policiesQuantity": 474,
+                    "commission": 190639.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "滨河英菲尼迪",
+                  "value": {
+                    "orgId": 19,
+                    "orgPath": ".1.2.19",
+                    "orgName": "滨河英菲尼迪",
+                    "premium": 6781888.0,
+                    "policiesQuantity": 1063,
+                    "commission": 744517.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华景启辰",
+                  "value": {
+                    "orgId": 20,
+                    "orgPath": ".1.2.20",
+                    "orgName": "深圳华景启辰",
+                    "premium": 1605965.0,
+                    "policiesQuantity": 397,
+                    "commission": 164664.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳华富",
+                  "value": {
+                    "orgId": 72,
+                    "orgPath": ".1.2.72",
+                    "orgName": "深圳华富",
+                    "premium": 108062.0,
+                    "policiesQuantity": 19,
+                    "commission": 11511.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "深圳郑州日产",
+                  "value": {
+                    "orgId": 233,
+                    "orgPath": ".1.2.233",
+                    "orgName": "深圳郑州日产",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "深圳华新日产": [
+                    113.90061610080188,
+                    22.584605304338769
+                  ]
+                },
+                {
+                  "深圳华旭日产": [
+                    113.9422088325617,
+                    22.532640239233114
+                  ]
+                },
+                {
+                  "深圳华鹏日产": [
+                    114.11808976160808,
+                    22.586540398348461
+                  ]
+                },
+                {
+                  "深圳华翔日产": [
+                    114.2317184071896,
+                    22.708908104705966
+                  ]
+                },
+                {
+                  "深圳华龙日产": [
+                    114.0182941333498,
+                    22.656503208180283
+                  ]
+                },
+                {
+                  "深圳华瑞日产": [
+                    114.03772807474623,
+                    22.547094379367568
+                  ]
+                },
+                {
+                  "深圳华景日产": [
+                    114.23156937830555,
+                    22.673201511294927
+                  ]
+                },
+                {
+                  "深圳华昌日产": [
+                    113.81369023147899,
+                    22.681448145898145
+                  ]
+                },
+                {
+                  "深圳华盛日产": [
+                    114.08623432650523,
+                    22.715278103330206
+                  ]
+                },
+                {
+                  "香蜜湖英菲尼迪": [
+                    114.03746855518278,
+                    22.547248297832645
+                  ]
+                },
+                {
+                  "深圳华龙启辰": [
+                    114.0182941333498,
+                    22.656503208180283
+                  ]
+                },
+                {
+                  "滨河英菲尼迪": [
+                    114.10635318542907,
+                    22.540996316005106
+                  ]
+                },
+                {
+                  "深圳华景启辰": [
+                    114.23156937830555,
+                    22.673201511294927
+                  ]
+                },
+                {
+                  "深圳华富": [
+                    114.08844535280539,
+                    22.545115302613898
+                  ]
+                },
+                {
+                  "深圳郑州日产": [
+                    114.06455183658751,
+                    22.548456637984177
+                  ]
+                }
+              ],
+              "city": "深圳",
+              "provinces": "广东",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "广州",
+            "value": {
+              "orgId": 21,
+              "orgPath": ".1.21",
+              "orgName": "广州",
+              "premium": 61409264.0,
+              "policiesQuantity": 15244,
+              "commission": 7393443.0,
+              "child": [
+                {
+                  "name": "广州中大日产",
+                  "value": {
+                    "orgId": 22,
+                    "orgPath": ".1.21.22",
+                    "orgName": "广州中大日产",
+                    "premium": 11274707.0,
+                    "policiesQuantity": 2955,
+                    "commission": 1886044.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州广大日产",
+                  "value": {
+                    "orgId": 23,
+                    "orgPath": ".1.21.23",
+                    "orgName": "广州广大日产",
+                    "premium": 14050571.0,
+                    "policiesQuantity": 3915,
+                    "commission": 1751288.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州黄埔日产",
+                  "value": {
+                    "orgId": 24,
+                    "orgPath": ".1.21.24",
+                    "orgName": "广州黄埔日产",
+                    "premium": 9803539.0,
+                    "policiesQuantity": 2279,
+                    "commission": 1257450.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州利辰启辰",
+                  "value": {
+                    "orgId": 26,
+                    "orgPath": ".1.21.26",
+                    "orgName": "广州利辰启辰",
+                    "premium": 4980972.0,
+                    "policiesQuantity": 1435,
+                    "commission": 778776.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州广辰启辰",
+                  "value": {
+                    "orgId": 27,
+                    "orgPath": ".1.21.27",
+                    "orgName": "广州广辰启辰",
+                    "premium": 3560438.0,
+                    "policiesQuantity": 908,
+                    "commission": 430795.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州新塘启辰",
+                  "value": {
+                    "orgId": 28,
+                    "orgPath": ".1.21.28",
+                    "orgName": "广州新塘启辰",
+                    "premium": 1811339.0,
+                    "policiesQuantity": 397,
+                    "commission": 10861.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州东泰启辰",
+                  "value": {
+                    "orgId": 29,
+                    "orgPath": ".1.21.29",
+                    "orgName": "广州东泰启辰",
+                    "premium": 2501814.0,
+                    "policiesQuantity": 652,
+                    "commission": 359872.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州广辰日产",
+                  "value": {
+                    "orgId": 30,
+                    "orgPath": ".1.21.30",
+                    "orgName": "广州广辰日产",
+                    "premium": 7884258.0,
+                    "policiesQuantity": 1794,
+                    "commission": 854878.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州钣喷",
+                  "value": {
+                    "orgId": 31,
+                    "orgPath": ".1.21.31",
+                    "orgName": "广州钣喷",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州英菲尼迪",
+                  "value": {
+                    "orgId": 230,
+                    "orgPath": ".1.21.230",
+                    "orgName": "广州英菲尼迪",
+                    "premium": 2742864.0,
+                    "policiesQuantity": 260,
+                    "commission": 1825.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰广州东风南方利辰新塘网点",
+                  "value": {
+                    "orgId": 235,
+                    "orgPath": ".1.21.235",
+                    "orgName": "启辰广州东风南方利辰新塘网点",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州新海珠日产",
+                  "value": {
+                    "orgId": 254,
+                    "orgPath": ".1.21.254",
+                    "orgName": "广州新海珠日产",
+                    "premium": 2452437.0,
+                    "policiesQuantity": 554,
+                    "commission": 57576.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广州",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广州云辰",
+                  "value": {
+                    "orgId": 267,
+                    "orgPath": ".1.21.267",
+                    "orgName": "广州云辰",
+                    "premium": 346325.0,
+                    "policiesQuantity": 95,
+                    "commission": 4079.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "广州中大日产": [
+                    113.39197870583953,
+                    23.135279764317819
+                  ]
+                },
+                {
+                  "广州广大日产": [
+                    113.31597777570153,
+                    23.073953493656624
+                  ]
+                },
+                {
+                  "广州黄埔日产": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                {
+                  "广州利辰启辰": [
+                    113.29298173136583,
+                    23.205653742614818
+                  ]
+                },
+                {
+                  "广州广辰启辰": [
+                    113.41595854652198,
+                    22.951722859098069
+                  ]
+                },
+                {
+                  "广州新塘启辰": [
+                    113.27143134445974,
+                    23.135336306695006
+                  ]
+                },
+                {
+                  "广州东泰启辰": [
+                    113.36236526701759,
+                    23.188503549017952
+                  ]
+                },
+                {
+                  "广州广辰日产": [
+                    113.41595854652198,
+                    22.951722859098069
+                  ]
+                },
+                {
+                  "广州钣喷": [
+                    113.27143134445974,
+                    23.135336306695006
+                  ]
+                },
+                {
+                  "广州英菲尼迪": [
+                    113.27143134445974,
+                    23.135336306695006
+                  ]
+                },
+                {
+                  "启辰广州东风南方利辰新塘网点": [
+                    113.27143134445974,
+                    23.135336306695006
+                  ]
+                },
+                {
+                  "广州新海珠日产": [
+                    113.29518703366327,
+                    23.077287010702864
+                  ]
+                },
+                {
+                  "广州云辰": [
+                    114.06455183658751,
+                    22.548456637984177
+                  ]
+                }
+              ],
+              "city": "广州",
+              "provinces": "广东",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "东莞",
+            "value": {
+              "orgId": 33,
+              "orgPath": ".1.33",
+              "orgName": "东莞",
+              "premium": 155321972.0,
+              "policiesQuantity": 38200,
+              "commission": 28323208.0,
+              "child": [
+                {
+                  "name": "东莞大兴日产",
+                  "value": {
+                    "orgId": 34,
+                    "orgPath": ".1.33.34",
+                    "orgName": "东莞大兴日产",
+                    "premium": 7541067.0,
+                    "policiesQuantity": 1913,
+                    "commission": 1443649.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞东深日产",
+                  "value": {
+                    "orgId": 35,
+                    "orgPath": ".1.33.35",
+                    "orgName": "东莞东深日产",
+                    "premium": 6274095.0,
+                    "policiesQuantity": 1652,
+                    "commission": 1214120.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞东益日产",
+                  "value": {
+                    "orgId": 36,
+                    "orgPath": ".1.33.36",
+                    "orgName": "东莞东益日产",
+                    "premium": 11857766.0,
+                    "policiesQuantity": 3082,
+                    "commission": 2144595.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞莞龙日产",
+                  "value": {
+                    "orgId": 37,
+                    "orgPath": ".1.33.37",
+                    "orgName": "东莞莞龙日产",
+                    "premium": 12246726.0,
+                    "policiesQuantity": 3143,
+                    "commission": 2407380.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞金美日产",
+                  "value": {
+                    "orgId": 38,
+                    "orgPath": ".1.33.38",
+                    "orgName": "东莞金美日产",
+                    "premium": 12720824.0,
+                    "policiesQuantity": 3434,
+                    "commission": 2272530.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞东兴日产",
+                  "value": {
+                    "orgId": 39,
+                    "orgPath": ".1.33.39",
+                    "orgName": "东莞东兴日产",
+                    "premium": 9437695.0,
+                    "policiesQuantity": 2346,
+                    "commission": 1765180.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞莞太日产",
+                  "value": {
+                    "orgId": 40,
+                    "orgPath": ".1.33.40",
+                    "orgName": "东莞莞太日产",
+                    "premium": 17220386.0,
+                    "policiesQuantity": 4361,
+                    "commission": 3367746.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞莞樟日产",
+                  "value": {
+                    "orgId": 41,
+                    "orgPath": ".1.33.41",
+                    "orgName": "东莞莞樟日产",
+                    "premium": 26133633.0,
+                    "policiesQuantity": 6675,
+                    "commission": 4829371.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞龙平日产",
+                  "value": {
+                    "orgId": 42,
+                    "orgPath": ".1.33.42",
+                    "orgName": "东莞龙平日产",
+                    "premium": 9192480.0,
+                    "policiesQuantity": 2392,
+                    "commission": 1398377.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞东深启辰",
+                  "value": {
+                    "orgId": 43,
+                    "orgPath": ".1.33.43",
+                    "orgName": "东莞东深启辰",
+                    "premium": 3220576.0,
+                    "policiesQuantity": 742,
+                    "commission": 623464.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞东兴启辰",
+                  "value": {
+                    "orgId": 44,
+                    "orgPath": ".1.33.44",
+                    "orgName": "东莞东兴启辰",
+                    "premium": 3946077.0,
+                    "policiesQuantity": 951,
+                    "commission": 738359.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞振安日产",
+                  "value": {
+                    "orgId": 45,
+                    "orgPath": ".1.33.45",
+                    "orgName": "东莞振安日产",
+                    "premium": 11638728.0,
+                    "policiesQuantity": 2965,
+                    "commission": 2140519.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞塘厦日产",
+                  "value": {
+                    "orgId": 46,
+                    "orgPath": ".1.33.46",
+                    "orgName": "东莞塘厦日产",
+                    "premium": 8222051.0,
+                    "policiesQuantity": 2058,
+                    "commission": 1505547.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞寮步启辰",
+                  "value": {
+                    "orgId": 47,
+                    "orgPath": ".1.33.47",
+                    "orgName": "东莞寮步启辰",
+                    "premium": 2027913.0,
+                    "policiesQuantity": 375,
+                    "commission": 378510.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞英菲尼迪",
+                  "value": {
+                    "orgId": 48,
+                    "orgPath": ".1.33.48",
+                    "orgName": "东莞英菲尼迪",
+                    "premium": 8560615.0,
+                    "policiesQuantity": 1082,
+                    "commission": 1747653.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞南城启辰",
+                  "value": {
+                    "orgId": 146,
+                    "orgPath": ".1.33.146",
+                    "orgName": "东莞南城启辰",
+                    "premium": 1601858.0,
+                    "policiesQuantity": 340,
+                    "commission": 323064.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东莞富民日产",
+                  "value": {
+                    "orgId": 229,
+                    "orgPath": ".1.33.229",
+                    "orgName": "东莞富民日产",
+                    "premium": 2777812.0,
+                    "policiesQuantity": 564,
+                    "commission": 23142.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东莞",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰东莞富民",
+                  "value": {
+                    "orgId": 282,
+                    "orgPath": ".1.33.282",
+                    "orgName": "启辰东莞富民",
+                    "premium": 701669.0,
+                    "policiesQuantity": 125,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "广东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "东莞大兴日产": [
+                    113.83234243328529,
+                    22.911631455826168
+                  ]
+                },
+                {
+                  "东莞东深日产": [
+                    114.09452029652654,
+                    22.883724007086759
+                  ]
+                },
+                {
+                  "东莞东益日产": [
+                    113.6894880413703,
+                    22.853106709205608
+                  ]
+                },
+                {
+                  "东莞莞龙日产": [
+                    113.88467126603896,
+                    23.1033473552178
+                  ]
+                },
+                {
+                  "东莞金美日产": [
+                    113.97015439023872,
+                    22.981135091630051
+                  ]
+                },
+                {
+                  "东莞东兴日产": [
+                    113.7081456375012,
+                    22.923357615893149
+                  ]
+                },
+                {
+                  "东莞莞太日产": [
+                    113.71442032024805,
+                    22.98780484151715
+                  ]
+                },
+                {
+                  "东莞莞樟日产": [
+                    113.88349112256547,
+                    22.996428153649422
+                  ]
+                },
+                {
+                  "东莞龙平日产": [
+                    114.15709158714229,
+                    22.717923645342616
+                  ]
+                },
+                {
+                  "东莞东深启辰": [
+                    114.09452029652654,
+                    22.883724007086759
+                  ]
+                },
+                {
+                  "东莞东兴启辰": [
+                    113.7081456375012,
+                    22.923357615893149
+                  ]
+                },
+                {
+                  "东莞振安日产": [
+                    113.79994643745218,
+                    22.787975500515351
+                  ]
+                },
+                {
+                  "东莞塘厦日产": [
+                    114.11116636024826,
+                    22.850981040391982
+                  ]
+                },
+                {
+                  "东莞寮步启辰": [
+                    113.854986197234,
+                    23.011709646519744
+                  ]
+                },
+                {
+                  "东莞英菲尼迪": [
+                    113.71666066015626,
+                    22.986371170689065
+                  ]
+                },
+                {
+                  "东莞南城启辰": [
+                    113.70924964239632,
+                    22.984312532934261
+                  ]
+                },
+                {
+                  "东莞富民日产": [
+                    113.97125673586376,
+                    22.918260802503195
+                  ]
+                },
+                {
+                  "启辰东莞富民": [
+                    114.06455183658751,
+                    22.548456637984177
+                  ]
+                }
+              ],
+              "city": "东莞",
+              "provinces": "广东",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "海南",
+            "value": {
+              "orgId": 56,
+              "orgPath": ".1.56",
+              "orgName": "海南",
+              "premium": 90679604.0,
+              "policiesQuantity": 23982,
+              "commission": 14505818.0,
+              "child": [
+                {
+                  "name": "海口海龙日产",
+                  "value": {
+                    "orgId": 57,
+                    "orgPath": ".1.56.57",
+                    "orgName": "海口海龙日产",
+                    "premium": 20638310.0,
+                    "policiesQuantity": 5639,
+                    "commission": 3425996.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "海口",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "海口海鹏日产",
+                  "value": {
+                    "orgId": 63,
+                    "orgPath": ".1.56.63",
+                    "orgName": "海口海鹏日产",
+                    "premium": 20127406.0,
+                    "policiesQuantity": 5572,
+                    "commission": 3328261.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "海口",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "海口启神启辰",
+                  "value": {
+                    "orgId": 64,
+                    "orgPath": ".1.56.64",
+                    "orgName": "海口启神启辰",
+                    "premium": 7059720.0,
+                    "policiesQuantity": 1858,
+                    "commission": 1157899.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "海口",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "海口海神日产",
+                  "value": {
+                    "orgId": 65,
+                    "orgPath": ".1.56.65",
+                    "orgName": "海口海神日产",
+                    "premium": 14002617.0,
+                    "policiesQuantity": 3532,
+                    "commission": 2185260.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "海口",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "三亚海燕日产",
+                  "value": {
+                    "orgId": 67,
+                    "orgPath": ".1.56.67",
+                    "orgName": "三亚海燕日产",
+                    "premium": 14815589.0,
+                    "policiesQuantity": 4175,
+                    "commission": 2447252.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "三亚",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "儋州海兴",
+                  "value": {
+                    "orgId": 68,
+                    "orgPath": ".1.56.68",
+                    "orgName": "儋州海兴",
+                    "premium": 3899243.0,
+                    "policiesQuantity": 946,
+                    "commission": 619819.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "儋州",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "三亚启佑启辰",
+                  "value": {
+                    "orgId": 69,
+                    "orgPath": ".1.56.69",
+                    "orgName": "三亚启佑启辰",
+                    "premium": 1306441.0,
+                    "policiesQuantity": 359,
+                    "commission": 213707.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "三亚",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "琼海海豹日产",
+                  "value": {
+                    "orgId": 70,
+                    "orgPath": ".1.56.70",
+                    "orgName": "琼海海豹日产",
+                    "premium": 3515483.0,
+                    "policiesQuantity": 816,
+                    "commission": 533757.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "琼海",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "琼海启海启辰",
+                  "value": {
+                    "orgId": 71,
+                    "orgPath": ".1.56.71",
+                    "orgName": "琼海启海启辰",
+                    "premium": 901057.0,
+                    "policiesQuantity": 251,
+                    "commission": 131674.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "琼海",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东方海鹰日产",
+                  "value": {
+                    "orgId": 203,
+                    "orgPath": ".1.56.203",
+                    "orgName": "东方海鹰日产",
+                    "premium": 793006.0,
+                    "policiesQuantity": 147,
+                    "commission": 137092.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "东方",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "万宁海狮日产",
+                  "value": {
+                    "orgId": 252,
+                    "orgPath": ".1.56.252",
+                    "orgName": "万宁海狮日产",
+                    "premium": 701334.0,
+                    "policiesQuantity": 136,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "万宁",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "海口海棠日产",
+                  "value": {
+                    "orgId": 253,
+                    "orgPath": ".1.56.253",
+                    "orgName": "海口海棠日产",
+                    "premium": 2536092.0,
+                    "policiesQuantity": 482,
+                    "commission": 324638.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "海口",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "三亚海鸥日产",
+                  "value": {
+                    "orgId": 262,
+                    "orgPath": ".1.56.262",
+                    "orgName": "三亚海鸥日产",
+                    "premium": 230216.0,
+                    "policiesQuantity": 38,
+                    "commission": 463.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "万宁启吉",
+                  "value": {
+                    "orgId": 264,
+                    "orgPath": ".1.56.264",
+                    "orgName": "万宁启吉",
+                    "premium": 153091.0,
+                    "policiesQuantity": 31,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "海南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "海口海龙日产": [
+                    110.42581735582492,
+                    19.997423157154405
+                  ]
+                },
+                {
+                  "海口海鹏日产": [
+                    110.32274466954188,
+                    20.001831129797896
+                  ]
+                },
+                {
+                  "海口启神启辰": [
+                    110.42581735582492,
+                    19.997423157154405
+                  ]
+                },
+                {
+                  "海口海神日产": [
+                    110.27559019510026,
+                    20.001666301296936
+                  ]
+                },
+                {
+                  "三亚海燕日产": [
+                    109.58414419379756,
+                    18.285950821283421
+                  ]
+                },
+                {
+                  "儋州海兴": [
+                    109.55736515679098,
+                    19.532245675230637
+                  ]
+                },
+                {
+                  "三亚启佑启辰": [
+                    109.62089507862289,
+                    18.314875038152081
+                  ]
+                },
+                {
+                  "琼海海豹日产": [
+                    110.49230772880301,
+                    19.249289987288176
+                  ]
+                },
+                {
+                  "琼海启海启辰": [
+                    110.49230772880301,
+                    19.249289987288176
+                  ]
+                },
+                {
+                  "东方海鹰日产": [
+                    108.65856652679174,
+                    19.101104731288629
+                  ]
+                },
+                {
+                  "万宁海狮日产": [
+                    110.39943436554806,
+                    18.800106988303387
+                  ]
+                },
+                {
+                  "海口海棠日产": [
+                    110.32552547126409,
+                    20.044049439256739
+                  ]
+                },
+                {
+                  "三亚海鸥日产": [
+                    109.18014812057214,
+                    18.358741264010675
+                  ]
+                },
+                {
+                  "万宁启吉": [
+                    110.36257290021277,
+                    18.801876624685363
+                  ]
+                }
+              ],
+              "city": "海口",
+              "provinces": "海南",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "集团",
+            "value": {
+              "orgId": 60,
+              "orgPath": ".1.60",
+              "orgName": "集团",
+              "premium": 1158737.0,
+              "policiesQuantity": 300,
+              "commission": 0.0,
+              "child": [
+                
+              ],
+              "coordinate": [
+                
+              ],
+              "city": "广州",
+              "provinces": "广东",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "重庆",
+            "value": {
+              "orgId": 74,
+              "orgPath": ".1.74",
+              "orgName": "重庆",
+              "premium": 42992646.0,
+              "policiesQuantity": 9782,
+              "commission": 6010289.0,
+              "child": [
+                {
+                  "name": "重庆渝达启辰",
+                  "value": {
+                    "orgId": 77,
+                    "orgPath": ".1.74.77",
+                    "orgName": "重庆渝达启辰",
+                    "premium": 3121274.0,
+                    "policiesQuantity": 812,
+                    "commission": 482486.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝兴日产",
+                  "value": {
+                    "orgId": 78,
+                    "orgPath": ".1.74.78",
+                    "orgName": "重庆渝兴日产",
+                    "premium": 15371540.0,
+                    "policiesQuantity": 3377,
+                    "commission": 2195130.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝旺标致",
+                  "value": {
+                    "orgId": 79,
+                    "orgPath": ".1.74.79",
+                    "orgName": "重庆渝旺标致",
+                    "premium": 3636279.0,
+                    "policiesQuantity": 979,
+                    "commission": 284446.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝发日产",
+                  "value": {
+                    "orgId": 80,
+                    "orgPath": ".1.74.80",
+                    "orgName": "重庆渝发日产",
+                    "premium": 7178359.0,
+                    "policiesQuantity": 1655,
+                    "commission": 1118448.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆英菲尼迪",
+                  "value": {
+                    "orgId": 81,
+                    "orgPath": ".1.74.81",
+                    "orgName": "重庆英菲尼迪",
+                    "premium": 1874353.0,
+                    "policiesQuantity": 280,
+                    "commission": 283010.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆雷诺",
+                  "value": {
+                    "orgId": 82,
+                    "orgPath": ".1.74.82",
+                    "orgName": "重庆雷诺",
+                    "premium": 1023258.0,
+                    "policiesQuantity": 203,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝东日产",
+                  "value": {
+                    "orgId": 83,
+                    "orgPath": ".1.74.83",
+                    "orgName": "重庆渝东日产",
+                    "premium": 1781103.0,
+                    "policiesQuantity": 370,
+                    "commission": 246677.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝风启辰",
+                  "value": {
+                    "orgId": 84,
+                    "orgPath": ".1.74.84",
+                    "orgName": "重庆渝风启辰",
+                    "premium": 712263.0,
+                    "policiesQuantity": 164,
+                    "commission": 95895.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆盛泰日产",
+                  "value": {
+                    "orgId": 88,
+                    "orgPath": ".1.74.88",
+                    "orgName": "重庆盛泰日产",
+                    "premium": 8036728.0,
+                    "policiesQuantity": 1891,
+                    "commission": 1256924.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "重庆渝南启辰",
+                  "value": {
+                    "orgId": 134,
+                    "orgPath": ".1.74.134",
+                    "orgName": "重庆渝南启辰",
+                    "premium": 257489.0,
+                    "policiesQuantity": 51,
+                    "commission": 47272.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "重庆",
+                    "provinces": "重庆",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "重庆渝达启辰": [
+                    106.46550894192768,
+                    29.525090189360569
+                  ]
+                },
+                {
+                  "重庆渝兴日产": [
+                    106.46550894192768,
+                    29.525090189360569
+                  ]
+                },
+                {
+                  "重庆渝旺标致": [
+                    106.46613072923876,
+                    29.532566216333148
+                  ]
+                },
+                {
+                  "重庆渝发日产": [
+                    106.54505589201779,
+                    29.413869015491823
+                  ]
+                },
+                {
+                  "重庆英菲尼迪": [
+                    106.53373165216594,
+                    29.5347457885874
+                  ]
+                },
+                {
+                  "重庆雷诺": [
+                    106.53314146544606,
+                    29.531495671729363
+                  ]
+                },
+                {
+                  "重庆渝东日产": [
+                    106.48577421846701,
+                    29.753206236723393
+                  ]
+                },
+                {
+                  "重庆渝风启辰": [
+                    106.48577421846701,
+                    29.753206236723393
+                  ]
+                },
+                {
+                  "重庆盛泰日产": [
+                    106.53135991601575,
+                    29.598166921811583
+                  ]
+                },
+                {
+                  "重庆渝南启辰": [
+                    106.53063501341296,
+                    29.54460610888615
+                  ]
+                }
+              ],
+              "city": "重庆",
+              "provinces": "重庆",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "北京",
+            "value": {
+              "orgId": 86,
+              "orgPath": ".1.86",
+              "orgName": "北京",
+              "premium": 70403662.0,
+              "policiesQuantity": 17650,
+              "commission": 13836642.0,
+              "child": [
+                {
+                  "name": "北京东日",
+                  "value": {
+                    "orgId": 89,
+                    "orgPath": ".1.86.89",
+                    "orgName": "北京东日",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "北京大成日产",
+                  "value": {
+                    "orgId": 91,
+                    "orgPath": ".1.86.91",
+                    "orgName": "北京大成日产",
+                    "premium": 14919792.0,
+                    "policiesQuantity": 3630,
+                    "commission": 2978843.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "北京亮马日产",
+                  "value": {
+                    "orgId": 92,
+                    "orgPath": ".1.86.92",
+                    "orgName": "北京亮马日产",
+                    "premium": 23719798.0,
+                    "policiesQuantity": 5813,
+                    "commission": 4652019.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "北京三合日产",
+                  "value": {
+                    "orgId": 93,
+                    "orgPath": ".1.86.93",
+                    "orgName": "北京三合日产",
+                    "premium": 23181151.0,
+                    "policiesQuantity": 5804,
+                    "commission": 4495217.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "北京大兴启辰",
+                  "value": {
+                    "orgId": 94,
+                    "orgPath": ".1.86.94",
+                    "orgName": "北京大兴启辰",
+                    "premium": 4210919.0,
+                    "policiesQuantity": 1551,
+                    "commission": 740968.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "北京大兴日产",
+                  "value": {
+                    "orgId": 242,
+                    "orgPath": ".1.86.242",
+                    "orgName": "北京大兴日产",
+                    "premium": 4372002.0,
+                    "policiesQuantity": 852,
+                    "commission": 969595.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "北京",
+                    "provinces": "北京",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "北京东日": [
+                    116.31552139656058,
+                    39.838111110763307
+                  ]
+                },
+                {
+                  "北京大成日产": [
+                    116.31565362713167,
+                    40.079710176638777
+                  ]
+                },
+                {
+                  "北京亮马日产": [
+                    116.48486392097675,
+                    39.9606874306519
+                  ]
+                },
+                {
+                  "北京三合日产": [
+                    116.51463986327522,
+                    39.818045815222028
+                  ]
+                },
+                {
+                  "北京大兴启辰": [
+                    116.33040518879258,
+                    39.748898216461313
+                  ]
+                },
+                {
+                  "北京大兴日产": [
+                    116.33040518879258,
+                    39.748898216461313
+                  ]
+                }
+              ],
+              "city": "北京",
+              "provinces": "北京",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "山东",
+            "value": {
+              "orgId": 95,
+              "orgPath": ".1.95",
+              "orgName": "山东",
+              "premium": 35877722.0,
+              "policiesQuantity": 9013,
+              "commission": 1243653.0,
+              "child": [
+                {
+                  "name": "济宁东源日产",
+                  "value": {
+                    "orgId": 100,
+                    "orgPath": ".1.95.100",
+                    "orgName": "济宁东源日产",
+                    "premium": 8625333.0,
+                    "policiesQuantity": 2098,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "济宁",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "济宁星源启辰",
+                  "value": {
+                    "orgId": 101,
+                    "orgPath": ".1.95.101",
+                    "orgName": "济宁星源启辰",
+                    "premium": 1064662.0,
+                    "policiesQuantity": 310,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "济宁",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邹城宝丰日产",
+                  "value": {
+                    "orgId": 103,
+                    "orgPath": ".1.95.103",
+                    "orgName": "邹城宝丰日产",
+                    "premium": 3379193.0,
+                    "policiesQuantity": 901,
+                    "commission": 34729.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "济宁",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "菏泽开源日产",
+                  "value": {
+                    "orgId": 104,
+                    "orgPath": ".1.95.104",
+                    "orgName": "菏泽开源日产",
+                    "premium": 4930557.0,
+                    "policiesQuantity": 1278,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "菏泽",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "菏泽广源启辰",
+                  "value": {
+                    "orgId": 105,
+                    "orgPath": ".1.95.105",
+                    "orgName": "菏泽广源启辰",
+                    "premium": 1541708.0,
+                    "policiesQuantity": 384,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "菏泽",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "菏泽佳达日产",
+                  "value": {
+                    "orgId": 106,
+                    "orgPath": ".1.95.106",
+                    "orgName": "菏泽佳达日产",
+                    "premium": 2348006.0,
+                    "policiesQuantity": 595,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "菏泽",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "菏泽广达日产",
+                  "value": {
+                    "orgId": 107,
+                    "orgPath": ".1.95.107",
+                    "orgName": "菏泽广达日产",
+                    "premium": 401865.0,
+                    "policiesQuantity": 115,
+                    "commission": 25131.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "菏泽",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "菏泽启发启辰",
+                  "value": {
+                    "orgId": 108,
+                    "orgPath": ".1.95.108",
+                    "orgName": "菏泽启发启辰",
+                    "premium": 1783232.0,
+                    "policiesQuantity": 481,
+                    "commission": 418195.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "菏泽",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "聊城天泽启辰",
+                  "value": {
+                    "orgId": 110,
+                    "orgPath": ".1.95.110",
+                    "orgName": "聊城天泽启辰",
+                    "premium": 1546203.0,
+                    "policiesQuantity": 456,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "聊城",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "聊城金天瑞日产",
+                  "value": {
+                    "orgId": 111,
+                    "orgPath": ".1.95.111",
+                    "orgName": "聊城金天瑞日产",
+                    "premium": 6222990.0,
+                    "policiesQuantity": 1436,
+                    "commission": 410532.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "聊城",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "聊城广通天瑞日产",
+                  "value": {
+                    "orgId": 112,
+                    "orgPath": ".1.95.112",
+                    "orgName": "聊城广通天瑞日产",
+                    "premium": 4017540.0,
+                    "policiesQuantity": 956,
+                    "commission": 352715.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "聊城",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邹城启兴启辰",
+                  "value": {
+                    "orgId": 114,
+                    "orgPath": ".1.95.114",
+                    "orgName": "邹城启兴启辰",
+                    "premium": 16432.0,
+                    "policiesQuantity": 3,
+                    "commission": 2350.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "济宁",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰天泽二网店",
+                  "value": {
+                    "orgId": 266,
+                    "orgPath": ".1.95.266",
+                    "orgName": "启辰天泽二网店",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "深圳",
+                    "provinces": "山东",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "济宁东源日产": [
+                    116.63560417858712,
+                    35.439525772884657
+                  ]
+                },
+                {
+                  "济宁星源启辰": [
+                    120.38258061807849,
+                    36.31357711634994
+                  ]
+                },
+                {
+                  "邹城宝丰日产": [
+                    116.97941091358965,
+                    35.445068336356456
+                  ]
+                },
+                {
+                  "菏泽开源日产": [
+                    115.54329537624812,
+                    35.264777137565055
+                  ]
+                },
+                {
+                  "菏泽广源启辰": [
+                    115.49999493605601,
+                    35.207448811008128
+                  ]
+                },
+                {
+                  "菏泽佳达日产": [
+                    115.42312091761519,
+                    35.272004466611875
+                  ]
+                },
+                {
+                  "菏泽广达日产": [
+                    115.8946323524563,
+                    35.612979519726693
+                  ]
+                },
+                {
+                  "菏泽启发启辰": [
+                    115.53534896301193,
+                    35.264283951970818
+                  ]
+                },
+                {
+                  "聊城天泽启辰": [
+                    116.01367844830388,
+                    36.463403157143858
+                  ]
+                },
+                {
+                  "聊城金天瑞日产": [
+                    116.03698714608331,
+                    36.485576536733063
+                  ]
+                },
+                {
+                  "聊城广通天瑞日产": [
+                    116.05523486068736,
+                    36.464134735489367
+                  ]
+                },
+                {
+                  "邹城启兴启辰": [
+                    116.60079762482256,
+                    35.402121664331347
+                  ]
+                },
+                {
+                  "启辰天泽二网店": [
+                    115.99158784830443,
+                    36.462758187694106
+                  ]
+                }
+              ],
+              "city": "济宁",
+              "provinces": "山东",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "河北",
+            "value": {
+              "orgId": 115,
+              "orgPath": ".1.115",
+              "orgName": "河北",
+              "premium": 82395963.0,
+              "policiesQuantity": 18816,
+              "commission": 9420146.0,
+              "child": [
+                {
+                  "name": "沧州沧运日产",
+                  "value": {
+                    "orgId": 116,
+                    "orgPath": ".1.115.116",
+                    "orgName": "沧州沧运日产",
+                    "premium": 6431846.0,
+                    "policiesQuantity": 1304,
+                    "commission": 2404020.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "沧州沧运启辰",
+                  "value": {
+                    "orgId": 117,
+                    "orgPath": ".1.115.117",
+                    "orgName": "沧州沧运启辰",
+                    "premium": 2560367.0,
+                    "policiesQuantity": 729,
+                    "commission": 294950.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定和顺日产",
+                  "value": {
+                    "orgId": 118,
+                    "orgPath": ".1.115.118",
+                    "orgName": "保定和顺日产",
+                    "premium": 12898008.0,
+                    "policiesQuantity": 2661,
+                    "commission": 1298.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定和顺启辰",
+                  "value": {
+                    "orgId": 119,
+                    "orgPath": ".1.115.119",
+                    "orgName": "保定和顺启辰",
+                    "premium": 4121307.0,
+                    "policiesQuantity": 1240,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "任丘三合日产",
+                  "value": {
+                    "orgId": 120,
+                    "orgPath": ".1.115.120",
+                    "orgName": "任丘三合日产",
+                    "premium": 5763273.0,
+                    "policiesQuantity": 1381,
+                    "commission": 972624.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邯郸北环启辰",
+                  "value": {
+                    "orgId": 121,
+                    "orgPath": ".1.115.121",
+                    "orgName": "邯郸北环启辰",
+                    "premium": 2430999.0,
+                    "policiesQuantity": 635,
+                    "commission": 313042.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "邯郸",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定定州日产",
+                  "value": {
+                    "orgId": 122,
+                    "orgPath": ".1.115.122",
+                    "orgName": "保定定州日产",
+                    "premium": 5551654.0,
+                    "policiesQuantity": 1179,
+                    "commission": 595.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邯郸武安日产",
+                  "value": {
+                    "orgId": 123,
+                    "orgPath": ".1.115.123",
+                    "orgName": "邯郸武安日产",
+                    "premium": 3096390.0,
+                    "policiesQuantity": 651,
+                    "commission": 8408.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "邯郸",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定涿州日产",
+                  "value": {
+                    "orgId": 124,
+                    "orgPath": ".1.115.124",
+                    "orgName": "保定涿州日产",
+                    "premium": 5550123.0,
+                    "policiesQuantity": 1169,
+                    "commission": 8773.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定涿州启辰",
+                  "value": {
+                    "orgId": 125,
+                    "orgPath": ".1.115.125",
+                    "orgName": "保定涿州启辰",
+                    "premium": 1608769.0,
+                    "policiesQuantity": 402,
+                    "commission": 1666.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "河间泰丽日产",
+                  "value": {
+                    "orgId": 126,
+                    "orgPath": ".1.115.126",
+                    "orgName": "河间泰丽日产",
+                    "premium": 3284549.0,
+                    "policiesQuantity": 753,
+                    "commission": 420292.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定和兴启辰",
+                  "value": {
+                    "orgId": 127,
+                    "orgPath": ".1.115.127",
+                    "orgName": "保定和兴启辰",
+                    "premium": 2587696.0,
+                    "policiesQuantity": 814,
+                    "commission": 447896.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "任丘泰丽启辰",
+                  "value": {
+                    "orgId": 128,
+                    "orgPath": ".1.115.128",
+                    "orgName": "任丘泰丽启辰",
+                    "premium": 882256.0,
+                    "policiesQuantity": 314,
+                    "commission": 139770.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "石家庄联德日产",
+                  "value": {
+                    "orgId": 129,
+                    "orgPath": ".1.115.129",
+                    "orgName": "石家庄联德日产",
+                    "premium": 13131680.0,
+                    "policiesQuantity": 2970,
+                    "commission": 2615103.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "石家庄联德启辰",
+                  "value": {
+                    "orgId": 130,
+                    "orgPath": ".1.115.130",
+                    "orgName": "石家庄联德启辰",
+                    "premium": 3089674.0,
+                    "policiesQuantity": 823,
+                    "commission": 587486.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "石家庄",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "石家庄英菲尼迪",
+                  "value": {
+                    "orgId": 131,
+                    "orgPath": ".1.115.131",
+                    "orgName": "石家庄英菲尼迪",
+                    "premium": 1377617.0,
+                    "policiesQuantity": 175,
+                    "commission": 298937.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "石家庄",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邯郸南环日产",
+                  "value": {
+                    "orgId": 132,
+                    "orgPath": ".1.115.132",
+                    "orgName": "邯郸南环日产",
+                    "premium": 4995346.0,
+                    "policiesQuantity": 968,
+                    "commission": 470330.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "邯郸",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰沧运开发区",
+                  "value": {
+                    "orgId": 133,
+                    "orgPath": ".1.115.133",
+                    "orgName": "启辰沧运开发区",
+                    "premium": 92659.0,
+                    "policiesQuantity": 26,
+                    "commission": 190.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沧州",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "石家庄尚德启辰",
+                  "value": {
+                    "orgId": 161,
+                    "orgPath": ".1.115.161",
+                    "orgName": "石家庄尚德启辰",
+                    "premium": 1232706.0,
+                    "policiesQuantity": 291,
+                    "commission": 259470.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "石家庄",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "邯郸东环日产",
+                  "value": {
+                    "orgId": 255,
+                    "orgPath": ".1.115.255",
+                    "orgName": "邯郸东环日产",
+                    "premium": 1693545.0,
+                    "policiesQuantity": 328,
+                    "commission": 175295.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "邯郸",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "保定满城网点",
+                  "value": {
+                    "orgId": 276,
+                    "orgPath": ".1.115.276",
+                    "orgName": "保定满城网点",
+                    "premium": 15501.0,
+                    "policiesQuantity": 3,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "保定",
+                    "provinces": "河北",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "沧州沧运日产": [
+                    116.82186361751974,
+                    38.322326124254118
+                  ]
+                },
+                {
+                  "沧州沧运启辰": [
+                    116.82186361751974,
+                    38.322326124254118
+                  ]
+                },
+                {
+                  "保定和顺日产": [
+                    115.53972760589822,
+                    38.924204256151562
+                  ]
+                },
+                {
+                  "保定和顺启辰": [
+                    115.53972760589822,
+                    38.924204256151562
+                  ]
+                },
+                {
+                  "任丘三合日产": [
+                    116.16321405193285,
+                    38.741104641109665
+                  ]
+                },
+                {
+                  "邯郸北环启辰": [
+                    114.49448604232236,
+                    36.620347221062133
+                  ]
+                },
+                {
+                  "保定定州日产": [
+                    114.93194491973361,
+                    38.547963660976734
+                  ]
+                },
+                {
+                  "邯郸武安日产": [
+                    114.27384103276533,
+                    36.855271034486869
+                  ]
+                },
+                {
+                  "保定涿州日产": [
+                    115.9706755188119,
+                    39.491758089390295
+                  ]
+                },
+                {
+                  "保定涿州启辰": [
+                    115.9706755188119,
+                    39.491758089390295
+                  ]
+                },
+                {
+                  "河间泰丽日产": [
+                    116.27159283892823,
+                    38.483721432478625
+                  ]
+                },
+                {
+                  "保定和兴启辰": [
+                    115.49639969552362,
+                    38.837038221958558
+                  ]
+                },
+                {
+                  "任丘泰丽启辰": [
+                    116.16321405193285,
+                    38.741104641109665
+                  ]
+                },
+                {
+                  "石家庄联德日产": [
+                    114.44508583318368,
+                    38.010830000164262
+                  ]
+                },
+                {
+                  "石家庄联德启辰": [
+                    114.44508583318368,
+                    38.010830000164262
+                  ]
+                },
+                {
+                  "石家庄英菲尼迪": [
+                    114.44508583318368,
+                    38.010830000164262
+                  ]
+                },
+                {
+                  "邯郸南环日产": [
+                    114.42028194720493,
+                    36.567120437161819
+                  ]
+                },
+                {
+                  "启辰沧运开发区": [
+                    116.9024957545531,
+                    38.293789234385088
+                  ]
+                },
+                {
+                  "石家庄尚德启辰": [
+                    114.52208184420766,
+                    38.048958314615454
+                  ]
+                },
+                {
+                  "邯郸东环日产": [
+                    114.5456282282352,
+                    36.631262731204046
+                  ]
+                },
+                {
+                  "保定满城网点": [
+                    115.47146383768579,
+                    38.879987768455337
+                  ]
+                }
+              ],
+              "city": "沧州",
+              "provinces": "河北",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "浙江",
+            "value": {
+              "orgId": 135,
+              "orgPath": ".1.135",
+              "orgName": "浙江",
+              "premium": 54754542.0,
+              "policiesQuantity": 11648,
+              "commission": 6149241.0,
+              "child": [
+                {
+                  "name": "杭州杭城日产",
+                  "value": {
+                    "orgId": 136,
+                    "orgPath": ".1.135.136",
+                    "orgName": "杭州杭城日产",
+                    "premium": 8424704.0,
+                    "policiesQuantity": 1709,
+                    "commission": 1330928.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州通惠日产",
+                  "value": {
+                    "orgId": 137,
+                    "orgPath": ".1.135.137",
+                    "orgName": "杭州通惠日产",
+                    "premium": 8232598.0,
+                    "policiesQuantity": 1862,
+                    "commission": 1281213.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "湖州金恒德日产",
+                  "value": {
+                    "orgId": 138,
+                    "orgPath": ".1.135.138",
+                    "orgName": "湖州金恒德日产",
+                    "premium": 5631850.0,
+                    "policiesQuantity": 1166,
+                    "commission": 474685.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "湖州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "余姚恒田日产",
+                  "value": {
+                    "orgId": 139,
+                    "orgPath": ".1.135.139",
+                    "orgName": "余姚恒田日产",
+                    "premium": 8091461.0,
+                    "policiesQuantity": 1688,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "宁波",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州起亚",
+                  "value": {
+                    "orgId": 140,
+                    "orgPath": ".1.135.140",
+                    "orgName": "杭州起亚",
+                    "premium": 3194048.0,
+                    "policiesQuantity": 837,
+                    "commission": 145707.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州滨安日产",
+                  "value": {
+                    "orgId": 141,
+                    "orgPath": ".1.135.141",
+                    "orgName": "杭州滨安日产",
+                    "premium": 10390007.0,
+                    "policiesQuantity": 2126,
+                    "commission": 1688507.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "湖州常兴日产",
+                  "value": {
+                    "orgId": 142,
+                    "orgPath": ".1.135.142",
+                    "orgName": "湖州常兴日产",
+                    "premium": 2756320.0,
+                    "policiesQuantity": 589,
+                    "commission": 83324.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "湖州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰湖州湖骏",
+                  "value": {
+                    "orgId": 143,
+                    "orgPath": ".1.135.143",
+                    "orgName": "启辰湖州湖骏",
+                    "premium": 149178.0,
+                    "policiesQuantity": 27,
+                    "commission": 13930.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "湖州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州宁新日产",
+                  "value": {
+                    "orgId": 144,
+                    "orgPath": ".1.135.144",
+                    "orgName": "杭州宁新日产",
+                    "premium": 4963930.0,
+                    "policiesQuantity": 1066,
+                    "commission": 895457.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州宁新启辰",
+                  "value": {
+                    "orgId": 145,
+                    "orgPath": ".1.135.145",
+                    "orgName": "杭州宁新启辰",
+                    "premium": 692164.0,
+                    "policiesQuantity": 175,
+                    "commission": 123376.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "湖州湖骏日产",
+                  "value": {
+                    "orgId": 176,
+                    "orgPath": ".1.135.176",
+                    "orgName": "湖州湖骏日产",
+                    "premium": 2174657.0,
+                    "policiesQuantity": 392,
+                    "commission": 112115.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "湖州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "杭州启杭启辰",
+                  "value": {
+                    "orgId": 278,
+                    "orgPath": ".1.135.278",
+                    "orgName": "杭州启杭启辰",
+                    "premium": 53626.0,
+                    "policiesQuantity": 11,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "杭州",
+                    "provinces": "浙江",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "杭州杭城日产": [
+                    120.15872524124734,
+                    30.335662049486491
+                  ]
+                },
+                {
+                  "杭州通惠日产": [
+                    120.29449624094117,
+                    30.140212562395778
+                  ]
+                },
+                {
+                  "湖州金恒德日产": [
+                    120.07570607381284,
+                    30.868636964542922
+                  ]
+                },
+                {
+                  "余姚恒田日产": [
+                    121.1515760586922,
+                    30.101539696168736
+                  ]
+                },
+                {
+                  "杭州起亚": [
+                    120.13482806891815,
+                    30.337210633602187
+                  ]
+                },
+                {
+                  "杭州滨安日产": [
+                    120.208744212552,
+                    30.187536147114539
+                  ]
+                },
+                {
+                  "湖州常兴日产": [
+                    119.94462223823606,
+                    31.015614474692477
+                  ]
+                },
+                {
+                  "启辰湖州湖骏": [
+                    119.94462223823606,
+                    31.015614474692477
+                  ]
+                },
+                {
+                  "杭州宁新日产": [
+                    120.29855777389768,
+                    30.228715468105165
+                  ]
+                },
+                {
+                  "杭州宁新启辰": [
+                    120.29855777389768,
+                    30.228715468105165
+                  ]
+                },
+                {
+                  "湖州湖骏日产": [
+                    120.09451660915789,
+                    30.898963937294184
+                  ]
+                },
+                {
+                  "杭州启杭启辰": [
+                    120.12789017429496,
+                    30.329111195040412
+                  ]
+                }
+              ],
+              "city": "杭州",
+              "provinces": "浙江",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "江苏",
+            "value": {
+              "orgId": 155,
+              "orgPath": ".1.155",
+              "orgName": "江苏",
+              "premium": 28433890.0,
+              "policiesQuantity": 6653,
+              "commission": 1924382.0,
+              "child": [
+                {
+                  "name": "扬州东峻日产",
+                  "value": {
+                    "orgId": 156,
+                    "orgPath": ".1.155.156",
+                    "orgName": "扬州东峻日产",
+                    "premium": 9833045.0,
+                    "policiesQuantity": 2423,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "扬州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "扬州扬辰日产",
+                  "value": {
+                    "orgId": 157,
+                    "orgPath": ".1.155.157",
+                    "orgName": "扬州扬辰日产",
+                    "premium": 8178425.0,
+                    "policiesQuantity": 1950,
+                    "commission": 275245.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "扬州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "靖江江平日产",
+                  "value": {
+                    "orgId": 158,
+                    "orgPath": ".1.155.158",
+                    "orgName": "靖江江平日产",
+                    "premium": 2885804.0,
+                    "policiesQuantity": 637,
+                    "commission": 528060.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "泰州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "泰州天辰日产",
+                  "value": {
+                    "orgId": 159,
+                    "orgPath": ".1.155.159",
+                    "orgName": "泰州天辰日产",
+                    "premium": 7053186.0,
+                    "policiesQuantity": 1539,
+                    "commission": 1121076.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "泰州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "泰州泰兴启辰",
+                  "value": {
+                    "orgId": 160,
+                    "orgPath": ".1.155.160",
+                    "orgName": "泰州泰兴启辰",
+                    "premium": 483430.0,
+                    "policiesQuantity": 104,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "泰州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "扬州扬辰启辰",
+                  "value": {
+                    "orgId": 256,
+                    "orgPath": ".1.155.256",
+                    "orgName": "扬州扬辰启辰",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "扬州",
+                    "provinces": "江苏",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "扬州东峻日产": [
+                    119.4264848895409,
+                    32.35994397790413
+                  ]
+                },
+                {
+                  "扬州扬辰日产": [
+                    119.39932030069892,
+                    32.456298428933813
+                  ]
+                },
+                {
+                  "靖江江平日产": [
+                    120.3362701932751,
+                    32.034532953668
+                  ]
+                },
+                {
+                  "泰州天辰日产": [
+                    119.91223433971811,
+                    32.424483937243437
+                  ]
+                },
+                {
+                  "泰州泰兴启辰": [
+                    119.97209523961388,
+                    32.329106124197409
+                  ]
+                },
+                {
+                  "扬州扬辰启辰": [
+                    119.41941890822997,
+                    32.40067693609037
+                  ]
+                }
+              ],
+              "city": "扬州",
+              "provinces": "江苏",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "山西",
+            "value": {
+              "orgId": 167,
+              "orgPath": ".1.167",
+              "orgName": "山西",
+              "premium": 23610383.0,
+              "policiesQuantity": 6068,
+              "commission": 1777565.0,
+              "child": [
+                {
+                  "name": "晋中汇盛日产",
+                  "value": {
+                    "orgId": 168,
+                    "orgPath": ".1.167.168",
+                    "orgName": "晋中汇盛日产",
+                    "premium": 9548746.0,
+                    "policiesQuantity": 2491,
+                    "commission": 548253.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "晋中",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "晋中汇辰启辰",
+                  "value": {
+                    "orgId": 169,
+                    "orgPath": ".1.167.169",
+                    "orgName": "晋中汇辰启辰",
+                    "premium": 2184898.0,
+                    "policiesQuantity": 650,
+                    "commission": 223166.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "晋中",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "太原北城启辰",
+                  "value": {
+                    "orgId": 170,
+                    "orgPath": ".1.167.170",
+                    "orgName": "太原北城启辰",
+                    "premium": 1958548.0,
+                    "policiesQuantity": 483,
+                    "commission": 198289.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "太原",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "阳泉太行日产",
+                  "value": {
+                    "orgId": 171,
+                    "orgPath": ".1.167.171",
+                    "orgName": "阳泉太行日产",
+                    "premium": 3949823.0,
+                    "policiesQuantity": 1042,
+                    "commission": 471187.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "阳泉",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "阳泉太行启辰",
+                  "value": {
+                    "orgId": 172,
+                    "orgPath": ".1.167.172",
+                    "orgName": "阳泉太行启辰",
+                    "premium": 986819.0,
+                    "policiesQuantity": 267,
+                    "commission": 111699.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "阳泉",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "太原龙城日产",
+                  "value": {
+                    "orgId": 173,
+                    "orgPath": ".1.167.173",
+                    "orgName": "太原龙城日产",
+                    "premium": 3664902.0,
+                    "policiesQuantity": 767,
+                    "commission": 180301.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "太原",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "太原龙城启辰",
+                  "value": {
+                    "orgId": 174,
+                    "orgPath": ".1.167.174",
+                    "orgName": "太原龙城启辰",
+                    "premium": 1082007.0,
+                    "policiesQuantity": 296,
+                    "commission": 44670.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "太原",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "临汾尧都启辰",
+                  "value": {
+                    "orgId": 175,
+                    "orgPath": ".1.167.175",
+                    "orgName": "临汾尧都启辰",
+                    "premium": 234641.0,
+                    "policiesQuantity": 72,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "临汾",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "东风南方汇泽网点",
+                  "value": {
+                    "orgId": 279,
+                    "orgPath": ".1.167.279",
+                    "orgName": "东风南方汇泽网点",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "太原",
+                    "provinces": "山西",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "晋中汇盛日产": [
+                    112.69449762486111,
+                    37.734731818350468
+                  ]
+                },
+                {
+                  "晋中汇辰启辰": [
+                    112.69449762486111,
+                    37.734731818350468
+                  ]
+                },
+                {
+                  "太原北城启辰": [
+                    112.54672554472359,
+                    37.920041516707826
+                  ]
+                },
+                {
+                  "阳泉太行日产": [
+                    113.57872002835897,
+                    37.921347281851851
+                  ]
+                },
+                {
+                  "阳泉太行启辰": [
+                    113.58761666287546,
+                    37.862360847859385
+                  ]
+                },
+                {
+                  "太原龙城日产": [
+                    112.63492488071192,
+                    37.778024953294221
+                  ]
+                },
+                {
+                  "太原龙城启辰": [
+                    112.63565189642895,
+                    37.7774831920558
+                  ]
+                },
+                {
+                  "临汾尧都启辰": [
+                    111.50517623812455,
+                    36.059281154438168
+                  ]
+                },
+                {
+                  "东风南方汇泽网点": [
+                    112.55639149167204,
+                    37.876989028847781
+                  ]
+                }
+              ],
+              "city": "晋中",
+              "provinces": "山西",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "贵州",
+            "value": {
+              "orgId": 179,
+              "orgPath": ".1.179",
+              "orgName": "贵州",
+              "premium": 26558648.0,
+              "policiesQuantity": 5333,
+              "commission": 4796490.0,
+              "child": [
+                {
+                  "name": "贵阳黔兴日产",
+                  "value": {
+                    "orgId": 180,
+                    "orgPath": ".1.179.180",
+                    "orgName": "贵阳黔兴日产",
+                    "premium": 7774734.0,
+                    "policiesQuantity": 1635,
+                    "commission": 1401576.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "贵阳白云启辰",
+                  "value": {
+                    "orgId": 181,
+                    "orgPath": ".1.179.181",
+                    "orgName": "贵阳白云启辰",
+                    "premium": 2791210.0,
+                    "policiesQuantity": 595,
+                    "commission": 424223.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "贵阳黔兴钣喷中心",
+                  "value": {
+                    "orgId": 182,
+                    "orgPath": ".1.179.182",
+                    "orgName": "贵阳黔兴钣喷中心",
+                    "premium": 681054.0,
+                    "policiesQuantity": 158,
+                    "commission": 121679.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "贵阳孟关启辰",
+                  "value": {
+                    "orgId": 183,
+                    "orgPath": ".1.179.183",
+                    "orgName": "贵阳孟关启辰",
+                    "premium": 1570932.0,
+                    "policiesQuantity": 321,
+                    "commission": 278051.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "六盘水黔旺",
+                  "value": {
+                    "orgId": 184,
+                    "orgPath": ".1.179.184",
+                    "orgName": "六盘水黔旺",
+                    "premium": 3700575.0,
+                    "policiesQuantity": 704,
+                    "commission": 675751.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "六盘水",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "六盘水黔达启辰",
+                  "value": {
+                    "orgId": 185,
+                    "orgPath": ".1.179.185",
+                    "orgName": "六盘水黔达启辰",
+                    "premium": 805505.0,
+                    "policiesQuantity": 159,
+                    "commission": 141878.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "六盘水",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "遵义黔发日产",
+                  "value": {
+                    "orgId": 186,
+                    "orgPath": ".1.179.186",
+                    "orgName": "遵义黔发日产",
+                    "premium": 3959972.0,
+                    "policiesQuantity": 692,
+                    "commission": 769738.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "遵义",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰遵义长沙路",
+                  "value": {
+                    "orgId": 187,
+                    "orgPath": ".1.179.187",
+                    "orgName": "启辰遵义长沙路",
+                    "premium": 827085.0,
+                    "policiesQuantity": 171,
+                    "commission": 152895.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "遵义",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "都匀万胜日产",
+                  "value": {
+                    "orgId": 188,
+                    "orgPath": ".1.179.188",
+                    "orgName": "都匀万胜日产",
+                    "premium": 2368834.0,
+                    "policiesQuantity": 466,
+                    "commission": 443098.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "黔西南布依族苗族自治州",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰东风南方白云专营店凯里分店",
+                  "value": {
+                    "orgId": 234,
+                    "orgPath": ".1.179.234",
+                    "orgName": "启辰东风南方白云专营店凯里分店",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰贵阳东风南方白云专营店安顺分店",
+                  "value": {
+                    "orgId": 236,
+                    "orgPath": ".1.179.236",
+                    "orgName": "启辰贵阳东风南方白云专营店安顺分店",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰贵阳东风南方白云专营店息烽分店",
+                  "value": {
+                    "orgId": 237,
+                    "orgPath": ".1.179.237",
+                    "orgName": "启辰贵阳东风南方白云专营店息烽分店",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "贵州新添寨",
+                  "value": {
+                    "orgId": 248,
+                    "orgPath": ".1.179.248",
+                    "orgName": "贵州新添寨",
+                    "premium": 2078747.0,
+                    "policiesQuantity": 432,
+                    "commission": 387600.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "贵阳",
+                    "provinces": "贵州",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "贵阳黔兴日产": [
+                    106.69333236229075,
+                    26.56609364862592
+                  ]
+                },
+                {
+                  "贵阳白云启辰": [
+                    106.66294274888131,
+                    26.673485824473048
+                  ]
+                },
+                {
+                  "贵阳黔兴钣喷中心": [
+                    106.63657676352776,
+                    26.653324822309752
+                  ]
+                },
+                {
+                  "贵阳孟关启辰": [
+                    106.63657676352776,
+                    26.653324822309752
+                  ]
+                },
+                {
+                  "六盘水黔旺": [
+                    104.91329385878475,
+                    26.546846974329949
+                  ]
+                },
+                {
+                  "六盘水黔达启辰": [
+                    104.91329385878475,
+                    26.546846974329949
+                  ]
+                },
+                {
+                  "遵义黔发日产": [
+                    106.88200110504731,
+                    27.618431561092759
+                  ]
+                },
+                {
+                  "启辰遵义长沙路": [
+                    106.95709621175681,
+                    27.722157680294611
+                  ]
+                },
+                {
+                  "都匀万胜日产": [
+                    107.52540443143744,
+                    26.266117957788534
+                  ]
+                },
+                {
+                  "启辰东风南方白云专营店凯里分店": [
+                    106.63657676352776,
+                    26.653324822309752
+                  ]
+                },
+                {
+                  "启辰贵阳东风南方白云专营店安顺分店": [
+                    106.70917709617579,
+                    26.62990674144093
+                  ]
+                },
+                {
+                  "启辰贵阳东风南方白云专营店息烽分店": [
+                    106.70917709617579,
+                    26.62990674144093
+                  ]
+                },
+                {
+                  "贵州新添寨": [
+                    106.77582067515857,
+                    26.637159342854318
+                  ]
+                }
+              ],
+              "city": "贵阳",
+              "provinces": "贵州",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "云南",
+            "value": {
+              "orgId": 193,
+              "orgPath": ".1.193",
+              "orgName": "云南",
+              "premium": 19141944.0,
+              "policiesQuantity": 3881,
+              "commission": 2982921.0,
+              "child": [
+                {
+                  "name": "昆明三佳",
+                  "value": {
+                    "orgId": 194,
+                    "orgPath": ".1.193.194",
+                    "orgName": "昆明三佳",
+                    "premium": 6462571.0,
+                    "policiesQuantity": 1450,
+                    "commission": 1067804.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "昆明",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "昆明三佳启辰",
+                  "value": {
+                    "orgId": 195,
+                    "orgPath": ".1.193.195",
+                    "orgName": "昆明三佳启辰",
+                    "premium": 364516.0,
+                    "policiesQuantity": 88,
+                    "commission": 63910.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "昆明",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "玉溪佳兴日产",
+                  "value": {
+                    "orgId": 196,
+                    "orgPath": ".1.193.196",
+                    "orgName": "玉溪佳兴日产",
+                    "premium": 3718655.0,
+                    "policiesQuantity": 762,
+                    "commission": 454606.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "玉溪",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰玉溪龙马",
+                  "value": {
+                    "orgId": 197,
+                    "orgPath": ".1.193.197",
+                    "orgName": "启辰玉溪龙马",
+                    "premium": 255551.0,
+                    "policiesQuantity": 50,
+                    "commission": 49795.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "玉溪",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "版纳佳旺日产",
+                  "value": {
+                    "orgId": 198,
+                    "orgPath": ".1.193.198",
+                    "orgName": "版纳佳旺日产",
+                    "premium": 2762587.0,
+                    "policiesQuantity": 510,
+                    "commission": 477194.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "西双版纳傣族自治州",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "云南金山日产",
+                  "value": {
+                    "orgId": 199,
+                    "orgPath": ".1.193.199",
+                    "orgName": "云南金山日产",
+                    "premium": 895971.0,
+                    "policiesQuantity": 149,
+                    "commission": 189638.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "丽江",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "云南东明日产",
+                  "value": {
+                    "orgId": 200,
+                    "orgPath": ".1.193.200",
+                    "orgName": "云南东明日产",
+                    "premium": 4460828.0,
+                    "policiesQuantity": 822,
+                    "commission": 657289.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "大理白族自治州",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "云南东明启辰",
+                  "value": {
+                    "orgId": 201,
+                    "orgPath": ".1.193.201",
+                    "orgName": "云南东明启辰",
+                    "premium": 221266.0,
+                    "policiesQuantity": 50,
+                    "commission": 22685.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "大理白族自治州",
+                    "provinces": "云南",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "昆明三佳": [
+                    102.75070739957206,
+                    25.11463640996703
+                  ]
+                },
+                {
+                  "昆明三佳启辰": [
+                    102.75070739957206,
+                    25.11463640996703
+                  ]
+                },
+                {
+                  "玉溪佳兴日产": [
+                    102.55947465304331,
+                    24.3634695627249
+                  ]
+                },
+                {
+                  "启辰玉溪龙马": [
+                    102.55947465304331,
+                    24.3634695627249
+                  ]
+                },
+                {
+                  "版纳佳旺日产": [
+                    100.79817000192463,
+                    21.976326528782192
+                  ]
+                },
+                {
+                  "云南金山日产": [
+                    100.26260511508887,
+                    26.870571965926509
+                  ]
+                },
+                {
+                  "云南东明日产": [
+                    100.26418356506946,
+                    25.602637796388258
+                  ]
+                },
+                {
+                  "云南东明启辰": [
+                    100.26264561788771,
+                    25.601482958495787
+                  ]
+                }
+              ],
+              "city": "昆明",
+              "provinces": "云南",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "四川",
+            "value": {
+              "orgId": 206,
+              "orgPath": ".1.206",
+              "orgName": "四川",
+              "premium": 65223757.0,
+              "policiesQuantity": 13859,
+              "commission": 6871349.0,
+              "child": [
+                {
+                  "name": "成都成发启辰",
+                  "value": {
+                    "orgId": 208,
+                    "orgPath": ".1.206.208",
+                    "orgName": "成都成发启辰",
+                    "premium": 2401714.0,
+                    "policiesQuantity": 547,
+                    "commission": 110773.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "成都",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "成都青羊成达启辰",
+                  "value": {
+                    "orgId": 210,
+                    "orgPath": ".1.206.210",
+                    "orgName": "成都青羊成达启辰",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "成都",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "德阳中威日产",
+                  "value": {
+                    "orgId": 211,
+                    "orgPath": ".1.206.211",
+                    "orgName": "德阳中威日产",
+                    "premium": 1701211.0,
+                    "policiesQuantity": 348,
+                    "commission": 257519.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "德阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "成都鸿羽",
+                  "value": {
+                    "orgId": 212,
+                    "orgPath": ".1.206.212",
+                    "orgName": "成都鸿羽",
+                    "premium": 2903310.0,
+                    "policiesQuantity": 457,
+                    "commission": 451880.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "成都",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "德阳中凯启辰",
+                  "value": {
+                    "orgId": 213,
+                    "orgPath": ".1.206.213",
+                    "orgName": "德阳中凯启辰",
+                    "premium": 381106.0,
+                    "policiesQuantity": 98,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "德阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "德阳西林日产",
+                  "value": {
+                    "orgId": 214,
+                    "orgPath": ".1.206.214",
+                    "orgName": "德阳西林日产",
+                    "premium": 6045519.0,
+                    "policiesQuantity": 1465,
+                    "commission": 5149.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "德阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "绵阳绵达起亚",
+                  "value": {
+                    "orgId": 215,
+                    "orgPath": ".1.206.215",
+                    "orgName": "绵阳绵达起亚",
+                    "premium": 1053280.0,
+                    "policiesQuantity": 209,
+                    "commission": 157534.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "绵阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "绵阳绵兴日产",
+                  "value": {
+                    "orgId": 216,
+                    "orgPath": ".1.206.216",
+                    "orgName": "绵阳绵兴日产",
+                    "premium": 10607736.0,
+                    "policiesQuantity": 2258,
+                    "commission": 1289431.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "绵阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "绵阳绵发启辰",
+                  "value": {
+                    "orgId": 217,
+                    "orgPath": ".1.206.217",
+                    "orgName": "绵阳绵发启辰",
+                    "premium": 1424617.0,
+                    "policiesQuantity": 318,
+                    "commission": 154970.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "绵阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "遂宁遂发日产",
+                  "value": {
+                    "orgId": 218,
+                    "orgPath": ".1.206.218",
+                    "orgName": "遂宁遂发日产",
+                    "premium": 5186000.0,
+                    "policiesQuantity": 1115,
+                    "commission": 552092.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "遂宁",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "遂宁遂兴启辰",
+                  "value": {
+                    "orgId": 219,
+                    "orgPath": ".1.206.219",
+                    "orgName": "遂宁遂兴启辰",
+                    "premium": 1101247.0,
+                    "policiesQuantity": 243,
+                    "commission": 88311.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "遂宁",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "南充树生日产",
+                  "value": {
+                    "orgId": 220,
+                    "orgPath": ".1.206.220",
+                    "orgName": "南充树生日产",
+                    "premium": 7136478.0,
+                    "policiesQuantity": 1725,
+                    "commission": 1158998.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "南充",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "南充树生启辰",
+                  "value": {
+                    "orgId": 221,
+                    "orgPath": ".1.206.221",
+                    "orgName": "南充树生启辰",
+                    "premium": 1350239.0,
+                    "policiesQuantity": 326,
+                    "commission": 207045.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "南充",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "广安广生日产",
+                  "value": {
+                    "orgId": 222,
+                    "orgPath": ".1.206.222",
+                    "orgName": "广安广生日产",
+                    "premium": 4816349.0,
+                    "policiesQuantity": 962,
+                    "commission": 499701.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "广安",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "内江星和日产",
+                  "value": {
+                    "orgId": 223,
+                    "orgPath": ".1.206.223",
+                    "orgName": "内江星和日产",
+                    "premium": 6345510.0,
+                    "policiesQuantity": 1264,
+                    "commission": 758254.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "内江",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "达州新川日产",
+                  "value": {
+                    "orgId": 224,
+                    "orgPath": ".1.206.224",
+                    "orgName": "达州新川日产",
+                    "premium": 5946815.0,
+                    "policiesQuantity": 1282,
+                    "commission": 737308.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "达州",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "泸州泸发启辰",
+                  "value": {
+                    "orgId": 225,
+                    "orgPath": ".1.206.225",
+                    "orgName": "泸州泸发启辰",
+                    "premium": 0.0,
+                    "policiesQuantity": 0,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "泸州",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "绵阳绵旺日产",
+                  "value": {
+                    "orgId": 226,
+                    "orgPath": ".1.206.226",
+                    "orgName": "绵阳绵旺日产",
+                    "premium": 3182995.0,
+                    "policiesQuantity": 643,
+                    "commission": 442383.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "绵阳",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "南充高坪",
+                  "value": {
+                    "orgId": 251,
+                    "orgPath": ".1.206.251",
+                    "orgName": "南充高坪",
+                    "premium": 3639634.0,
+                    "policiesQuantity": 599,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "南充",
+                    "provinces": "四川",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "成都成发启辰": [
+                    103.9550814539387,
+                    30.604252367202832
+                  ]
+                },
+                {
+                  "成都青羊成达启辰": [
+                    103.95917505819854,
+                    30.688700991759859
+                  ]
+                },
+                {
+                  "德阳中威日产": [
+                    104.34190162411613,
+                    31.133959577154666
+                  ]
+                },
+                {
+                  "成都鸿羽": [
+                    103.96711230602361,
+                    30.9693671025256
+                  ]
+                },
+                {
+                  "德阳中凯启辰": [
+                    104.33985132084049,
+                    31.124522210270126
+                  ]
+                },
+                {
+                  "德阳西林日产": [
+                    104.401326820687,
+                    31.1259571390206
+                  ]
+                },
+                {
+                  "绵阳绵达起亚": [
+                    104.67939300009527,
+                    31.473438905959288
+                  ]
+                },
+                {
+                  "绵阳绵兴日产": [
+                    104.692066973349,
+                    31.4710479047857
+                  ]
+                },
+                {
+                  "绵阳绵发启辰": [
+                    104.692066973349,
+                    31.4710479047857
+                  ]
+                },
+                {
+                  "遂宁遂发日产": [
+                    105.62152802077001,
+                    30.523499649282648
+                  ]
+                },
+                {
+                  "遂宁遂兴启辰": [
+                    105.57289901375042,
+                    30.462455371050243
+                  ]
+                },
+                {
+                  "南充树生日产": [
+                    106.05781757983941,
+                    30.8855375420041
+                  ]
+                },
+                {
+                  "南充树生启辰": [
+                    106.06086283551824,
+                    30.88463482969637
+                  ]
+                },
+                {
+                  "广安广生日产": [
+                    106.70141410141488,
+                    30.512982144384186
+                  ]
+                },
+                {
+                  "内江星和日产": [
+                    105.03987590991751,
+                    29.585534921900468
+                  ]
+                },
+                {
+                  "达州新川日产": [
+                    107.50980226970988,
+                    31.176052540190852
+                  ]
+                },
+                {
+                  "泸州泸发启辰": [
+                    105.44154513382188,
+                    28.884671972905426
+                  ]
+                },
+                {
+                  "绵阳绵旺日产": [
+                    104.72089674123347,
+                    31.724745114585627
+                  ]
+                },
+                {
+                  "南充高坪": [
+                    106.17025157075736,
+                    30.773370243884482
+                  ]
+                }
+              ],
+              "city": "成都",
+              "provinces": "四川",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "辽宁",
+            "value": {
+              "orgId": 241,
+              "orgPath": ".1.241",
+              "orgName": "辽宁",
+              "premium": 7497503.0,
+              "policiesQuantity": 1604,
+              "commission": 34.0,
+              "child": [
+                {
+                  "name": "沈阳沈河启辰",
+                  "value": {
+                    "orgId": 243,
+                    "orgPath": ".1.241.243",
+                    "orgName": "沈阳沈河启辰",
+                    "premium": 934581.0,
+                    "policiesQuantity": 243,
+                    "commission": 34.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沈阳",
+                    "provinces": "辽宁",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "抚顺沈抚日产",
+                  "value": {
+                    "orgId": 244,
+                    "orgPath": ".1.241.244",
+                    "orgName": "抚顺沈抚日产",
+                    "premium": 2527786.0,
+                    "policiesQuantity": 628,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "抚顺",
+                    "provinces": "辽宁",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "沈阳辽沈日产",
+                  "value": {
+                    "orgId": 245,
+                    "orgPath": ".1.241.245",
+                    "orgName": "沈阳辽沈日产",
+                    "premium": 3828210.0,
+                    "policiesQuantity": 674,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "沈阳",
+                    "provinces": "辽宁",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "铁岭凡河启辰",
+                  "value": {
+                    "orgId": 257,
+                    "orgPath": ".1.241.257",
+                    "orgName": "铁岭凡河启辰",
+                    "premium": 206926.0,
+                    "policiesQuantity": 59,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "铁岭",
+                    "provinces": "辽宁",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "沈阳沈河启辰": [
+                    123.4559899308919,
+                    41.720915668888956
+                  ]
+                },
+                {
+                  "抚顺沈抚日产": [
+                    123.9643746156145,
+                    41.885969593056942
+                  ]
+                },
+                {
+                  "沈阳辽沈日产": [
+                    123.4559899308919,
+                    41.720915668888956
+                  ]
+                },
+                {
+                  "铁岭凡河启辰": [
+                    123.73236520917769,
+                    42.229947997184468
+                  ]
+                }
+              ],
+              "city": "沈阳",
+              "provinces": "辽宁",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "上海",
+            "value": {
+              "orgId": 246,
+              "orgPath": ".1.246",
+              "orgName": "上海",
+              "premium": 1489631.0,
+              "policiesQuantity": 245,
+              "commission": 0.0,
+              "child": [
+                {
+                  "name": "上海威顺日产",
+                  "value": {
+                    "orgId": 247,
+                    "orgPath": ".1.246.247",
+                    "orgName": "上海威顺日产",
+                    "premium": 1277073.0,
+                    "policiesQuantity": 204,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "上海",
+                    "provinces": "上海",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                },
+                {
+                  "name": "启辰威顺店",
+                  "value": {
+                    "orgId": 265,
+                    "orgPath": ".1.246.265",
+                    "orgName": "启辰威顺店",
+                    "premium": 212559.0,
+                    "policiesQuantity": 41,
+                    "commission": 0.0,
+                    "child": [
+                      
+                    ],
+                    "coordinate": [
+                      
+                    ],
+                    "city": "上海",
+                    "provinces": "上海",
+                    "confluxList": [
+                      
+                    ]
+                  }
+                }
+              ],
+              "coordinate": [
+                {
+                  "上海威顺日产": [
+                    121.48053886017651,
+                    31.235929042252014
+                  ]
+                },
+                {
+                  "启辰威顺店": [
+                    121.48053886017651,
+                    31.235929042252014
+                  ]
+                }
+              ],
+              "city": "上海",
+              "provinces": "上海",
+              "confluxList": [
+                
+              ]
+            }
+          },
+          {
+            "name": "神龙公司-东莞",
+            "value": {
+              "orgId": 271,
+              "orgPath": ".1.271",
+              "orgName": "神龙公司-东莞",
+              "premium": 0.0,
+              "policiesQuantity": 0,
+              "commission": 0.0,
+              "child": [
+                
+              ],
+              "coordinate": [
+                
+              ],
+              "city": "东莞",
+              "provinces": "广东",
+              "confluxList": [
+                
+              ]
+            }
+          }
+        ],
+        "coordinate": [
+          {
+            "东风南方保险代理有限公司": [
+              114.06455183658751,
+              22.548456637984177
+            ]
+          },
+          {
+            "深圳": [
+              114.0259736573215,
+              22.546053546205247
+            ]
+          },
+          {
+            "广州": [
+              113.27143134445974,
+              23.135336306695006
+            ]
+          },
+          {
+            "东莞": [
+              113.76343399075655,
+              23.043023815368237
+            ]
+          },
+          {
+            "海南": [
+              109.73375548794272,
+              19.180500801260521
+            ]
+          },
+          {
+            "集团": [
+              113.22657580629208,
+              23.411161504875746
+            ]
+          },
+          {
+            "重庆": [
+              106.46636420647631,
+              29.524965489219873
+            ]
+          },
+          {
+            "北京": [
+              116.31631783422574,
+              39.875810151282735
+            ]
+          },
+          {
+            "山东": [
+              116.60079762482256,
+              35.402121664331347
+            ]
+          },
+          {
+            "河北": [
+              116.84558075595014,
+              38.310215141107044
+            ]
+          },
+          {
+            "浙江": [
+              120.21937541572009,
+              30.259244461536102
+            ]
+          },
+          {
+            "江苏": [
+              119.42777755116975,
+              32.408505254568439
+            ]
+          },
+          {
+            "山西": [
+              112.73851439991773,
+              37.693361526797588
+            ]
+          },
+          {
+            "贵州": [
+              106.63657676352776,
+              26.653324822309752
+            ]
+          },
+          {
+            "云南": [
+              102.71460113878045,
+              25.049153100453157
+            ]
+          },
+          {
+            "四川": [
+              104.06792346330406,
+              30.679942845419564
+            ]
+          },
+          {
+            "辽宁": [
+              123.43279092160505,
+              41.808644783515746
+            ]
+          },
+          {
+            "上海": [
+              121.48789948569473,
+              31.249161710015141
+            ]
+          },
+          {
+            "神龙公司-东莞": [
+              113.75842045787648,
+              23.027308411643389
+            ]
+          }
+        ],
+        "confluxList": [
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "深圳",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "广州",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "东莞",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "海南",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "集团",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "重庆",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "北京",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "山东",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "河北",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "浙江",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "江苏",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "山西",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "贵州",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "云南",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "四川",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "辽宁",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "上海",
+              "value": 100
+            }
+          ],
+          [
+            {
+              "name": "东风南方保险代理有限公司"
+            },
+            {
+              "name": "神龙公司-东莞",
+              "value": 100
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "status": 200
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-tongji</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-tongji" transform="translate(1.000000, 2.000000)" stroke-width="2">
+            <path d="M8,16 C12.1103577,16 15.4966994,12.9001189 15.9487397,8.91064202 C13.5826823,8.91064202 7.15533267,8.91064202 7.15533267,8.91064202 C7.15533267,8.91064202 7.15533267,1.02235243 7.15533267,0.0440611805 C3.13410892,0.466034376 0,3.86701201 0,8 C0,12.418278 3.581722,16 8,16 Z" id="Oval-3" stroke="#3F454F"></path>
+            <path d="M15.5641626,5.38881086 C14.7789384,3.1137454 12.9962447,1.30359932 10.7388187,0.481109823 C10.7388187,1.47759332 10.7388187,1.83661902 10.7388187,5.38881086 C14.3511234,5.38881086 14.0677083,5.38881086 15.5641626,5.38881086 Z" id="Oval" stroke="#969FA9"></path>
+        </g>
+    </g>
+</svg>

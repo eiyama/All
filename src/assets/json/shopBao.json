@@ -1,0 +1,591 @@
+{
+    "Products": [
+        {
+            "cityCode": "110000,120000,130000,140000,150000,210000,220000,230000,310000,320000,330000,340000,350000,360000,370000,410000,420000,430000,440000,450000,460000,500000,510000,520000,530000,540000,610000,620000,630000,640000,650000,710000,810000,820000",
+            "productCode": "MP10120111",
+            "productVersion": "1.0",
+            "productName": "店家宝-对接",
+            "productFullName": "店家宝",
+            "riskOptions": [
+                {
+                    "code": "LeastAhsNum",
+                    "options": [
+                        "3"
+                    ]
+                },
+                {
+                    "code": "TopAhsNum",
+                    "options": [
+                        "3",
+                        "6"
+                    ]
+                }
+            ],
+            "packages": [
+                {
+                    "packageCode": "PK00016162",
+                    "packageName": "温馨版",
+                    "compensationMaxAmount": 0,
+                    "totalCompensationMaxAmount": 259000,
+                    "ruleParam": {
+                        "leastAhsNum": 3,
+                        "topAhsNum": 3
+                    },
+                    "tradeInfos": [
+                        {
+                            "tradeName": "卫生、社会保障和社会福利业",
+                            "tradeCode": "Q",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "教育",
+                            "tradeCode": "P",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "居民服务和其他服务业",
+                            "tradeCode": "O",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "租赁和商务服务业",
+                            "tradeCode": "L",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "信息传输、计算机服务和软件业",
+                            "tradeCode": "G",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "住宿和餐饮业",
+                            "tradeCode": "I",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "批发和零售业",
+                            "tradeCode": "H",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "文化、体育和娱乐业",
+                            "tradeCode": "R",
+                            "tradeLevel": 1
+                        }
+                    ],
+                    "planInfos": [
+                        {
+                            "planName": "财产综合险-SME",
+                            "termName": "财产综合险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "店内财产因火灾、爆炸受损",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 50000,
+                                    "dutyPrice": 120,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故赔偿限额(元)",
+                                            "dutyAttrAmountValue": "50000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "dutyName": "店内财产因自然灾害受损",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 50000,
+                                    "dutyPrice": 40,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故赔偿限额(元)",
+                                            "dutyAttrAmountValue": "50000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "公众责任保险",
+                            "termName": "平安公众责任保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "经营业务发生意外事故造成第三者人身伤亡",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 10000,
+                                    "dutyPrice": 70,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故每人赔偿限额(元)",
+                                            "dutyAttrAmountValue": "10000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "04"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "dutyName": "经营业务发生意外事故造成第三者财产损失",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 10000,
+                                    "dutyPrice": 30,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故财产损失赔偿限额(元)",
+                                            "dutyAttrAmountValue": "10000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "04"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "平安团体意外伤害保险-SME",
+                            "termName": "平安团体意外伤害保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "因遭受意外伤害事故导致身故或伤残",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 50000,
+                                    "dutyPrice": 70,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每人赔偿限额(元)",
+                                            "dutyAttrAmountValue": "50000"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "平安附加意外伤害医疗保险-SME",
+                            "termName": "平安附加意外伤害医疗保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "可报销的、必要的、合理的医疗费用",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 3000,
+                                    "dutyPrice": 35,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每人医疗费用赔偿限额(元)",
+                                            "dutyAttrAmountValue": "3000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "100"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.2"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "09"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "04"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "packageCode": "PK00016192",
+                    "packageName": "财神版",
+                    "compensationMaxAmount": 0,
+                    "totalCompensationMaxAmount": 1160000,
+                    "ruleParam": {
+                        "leastAhsNum": 3,
+                        "topAhsNum": 6
+                    },
+                    "tradeInfos": [
+                        {
+                            "tradeName": "文化、体育和娱乐业",
+                            "tradeCode": "R",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "卫生、社会保障和社会福利业",
+                            "tradeCode": "Q",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "教育",
+                            "tradeCode": "P",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "居民服务和其他服务业",
+                            "tradeCode": "O",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "租赁和商务服务业",
+                            "tradeCode": "L",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "信息传输、计算机服务和软件业",
+                            "tradeCode": "G",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "住宿和餐饮业",
+                            "tradeCode": "I",
+                            "tradeLevel": 1
+                        },
+                        {
+                            "tradeName": "批发和零售业",
+                            "tradeCode": "H",
+                            "tradeLevel": 1
+                        }
+                    ],
+                    "planInfos": [
+                        {
+                            "planName": "财产综合险-SME",
+                            "termName": "财产综合险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "店内财产因火灾、爆炸受损",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 100000,
+                                    "dutyPrice": 210,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故赔偿限额(元)",
+                                            "dutyAttrAmountValue": "100000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "dutyName": "店内财产因自然灾害受损",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 100000,
+                                    "dutyPrice": 50,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故赔偿限额(元)",
+                                            "dutyAttrAmountValue": "100000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "公众责任保险",
+                            "termName": "平安公众责任保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "经营业务发生意外事故造成第三者人身伤亡",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 10000,
+                                    "dutyPrice": 160,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故每人赔偿限额(元)",
+                                            "dutyAttrAmountValue": "10000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "04"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "dutyName": "经营业务发生意外事故造成第三者财产损失",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 10000,
+                                    "dutyPrice": 40,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每次事故财产损失赔偿限额(元)",
+                                            "dutyAttrAmountValue": "10000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "500"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.0"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "04"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "03"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "02"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "平安团体意外伤害保险-SME",
+                            "termName": "平安团体意外伤害保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "因遭受意外伤害事故导致身故或伤残",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 150000,
+                                    "dutyPrice": 200,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每人赔偿限额(元)",
+                                            "dutyAttrAmountValue": "150000"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "planName": "平安附加意外伤害医疗保险-SME",
+                            "termName": "平安附加意外伤害医疗保险",
+                            "dutyInfos": [
+                                {
+                                    "dutyName": "可报销的、必要的、合理的医疗费用",
+                                    "insuredAmountUnit": "元",
+                                    "insuredAmount": 10000,
+                                    "dutyPrice": 228,
+                                    "dutyAttributeInfos": [
+                                        {
+                                            "dutyAttributeUnit": "元",
+                                            "dutyAttributeName": "每人医疗费用赔偿限额(元)",
+                                            "dutyAttrAmountValue": "10000"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔额",
+                                            "dutyAttrAmountValue": "100"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "%",
+                                            "dutyAttributeName": "免赔率(%)",
+                                            "dutyAttrAmountValue": "0.2"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔对象",
+                                            "dutyAttrAmountValue": "09"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目",
+                                            "dutyAttrAmountValue": "01"
+                                        },
+                                        {
+                                            "dutyAttributeUnit": "",
+                                            "dutyAttributeName": "免赔项目描述",
+                                            "dutyAttrAmountValue": "04"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "BasicOptions": []
+}

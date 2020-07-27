@@ -1,0 +1,1344 @@
+{
+  "result": [
+    {
+      "CityCode": "130100",
+      "PlateNoPrefix": "冀A"
+    },
+    {
+      "CityCode": "130200",
+      "PlateNoPrefix": "冀B"
+    },
+    {
+      "CityCode": "130300",
+      "PlateNoPrefix": "冀C"
+    },
+    {
+      "CityCode": "130400",
+      "PlateNoPrefix": "冀D"
+    },
+    {
+      "CityCode": "130500",
+      "PlateNoPrefix": "冀E"
+    },
+    {
+      "CityCode": "130600",
+      "PlateNoPrefix": "冀F"
+    },
+    {
+      "CityCode": "130700",
+      "PlateNoPrefix": "冀G"
+    },
+    {
+      "CityCode": "130800",
+      "PlateNoPrefix": "冀H"
+    },
+    {
+      "CityCode": "130900",
+      "PlateNoPrefix": "冀J"
+    },
+    {
+      "CityCode": "131000",
+      "PlateNoPrefix": "冀R"
+    },
+    {
+      "CityCode": "131100",
+      "PlateNoPrefix": "冀T"
+    },
+    {
+      "CityCode": "210100",
+      "PlateNoPrefix": "辽A"
+    },
+    {
+      "CityCode": "210200",
+      "PlateNoPrefix": "辽B"
+    },
+    {
+      "CityCode": "210300",
+      "PlateNoPrefix": "辽C"
+    },
+    {
+      "CityCode": "210400",
+      "PlateNoPrefix": "辽D"
+    },
+    {
+      "CityCode": "210500",
+      "PlateNoPrefix": "辽E"
+    },
+    {
+      "CityCode": "210600",
+      "PlateNoPrefix": "辽F"
+    },
+    {
+      "CityCode": "210700",
+      "PlateNoPrefix": "辽G"
+    },
+    {
+      "CityCode": "210800",
+      "PlateNoPrefix": "辽H"
+    },
+    {
+      "CityCode": "210900",
+      "PlateNoPrefix": "辽J"
+    },
+    {
+      "CityCode": "211000",
+      "PlateNoPrefix": "辽K"
+    },
+    {
+      "CityCode": "211100",
+      "PlateNoPrefix": "辽L"
+    },
+    {
+      "CityCode": "211200",
+      "PlateNoPrefix": "辽M"
+    },
+    {
+      "CityCode": "211300",
+      "PlateNoPrefix": "辽N"
+    },
+    {
+      "CityCode": "211400",
+      "PlateNoPrefix": "辽P"
+    },
+    {
+      "CityCode": "340100",
+      "PlateNoPrefix": "皖A"
+    },
+    {
+      "CityCode": "340200",
+      "PlateNoPrefix": "皖B"
+    },
+    {
+      "CityCode": "340300",
+      "PlateNoPrefix": "皖C"
+    },
+    {
+      "CityCode": "340400",
+      "PlateNoPrefix": "皖D"
+    },
+    {
+      "CityCode": "340500",
+      "PlateNoPrefix": "皖E"
+    },
+    {
+      "CityCode": "340600",
+      "PlateNoPrefix": "皖F"
+    },
+    {
+      "CityCode": "340700",
+      "PlateNoPrefix": "皖G"
+    },
+    {
+      "CityCode": "340800",
+      "PlateNoPrefix": "皖H"
+    },
+    {
+      "CityCode": "341000",
+      "PlateNoPrefix": "皖J"
+    },
+    {
+      "CityCode": "341200",
+      "PlateNoPrefix": "皖K"
+    },
+    {
+      "CityCode": "341300",
+      "PlateNoPrefix": "皖L"
+    },
+    {
+      "CityCode": "341100",
+      "PlateNoPrefix": "皖M"
+    },
+    {
+      "CityCode": "341500",
+      "PlateNoPrefix": "皖N"
+    },
+    {
+      "CityCode": "341800",
+      "PlateNoPrefix": "皖P"
+    },
+    {
+      "CityCode": "341700",
+      "PlateNoPrefix": "皖R"
+    },
+    {
+      "CityCode": "341600",
+      "PlateNoPrefix": "皖S"
+    },
+    {
+      "CityCode": "320100",
+      "PlateNoPrefix": "苏A"
+    },
+    {
+      "CityCode": "320200",
+      "PlateNoPrefix": "苏B"
+    },
+    {
+      "CityCode": "320300",
+      "PlateNoPrefix": "苏C"
+    },
+    {
+      "CityCode": "320400",
+      "PlateNoPrefix": "苏D"
+    },
+    {
+      "CityCode": "320500",
+      "PlateNoPrefix": "苏E"
+    },
+    {
+      "CityCode": "320600",
+      "PlateNoPrefix": "苏F"
+    },
+    {
+      "CityCode": "320700",
+      "PlateNoPrefix": "苏G"
+    },
+    {
+      "CityCode": "320800",
+      "PlateNoPrefix": "苏H"
+    },
+    {
+      "CityCode": "320900",
+      "PlateNoPrefix": "苏J"
+    },
+    {
+      "CityCode": "321000",
+      "PlateNoPrefix": "苏K"
+    },
+    {
+      "CityCode": "321100",
+      "PlateNoPrefix": "苏L"
+    },
+    {
+      "CityCode": "321200",
+      "PlateNoPrefix": "苏M"
+    },
+    {
+      "CityCode": "321300",
+      "PlateNoPrefix": "苏N"
+    },
+    {
+      "CityCode": "420100",
+      "PlateNoPrefix": "鄂A"
+    },
+    {
+      "CityCode": "420200",
+      "PlateNoPrefix": "鄂B"
+    },
+    {
+      "CityCode": "420300",
+      "PlateNoPrefix": "鄂C"
+    },
+    {
+      "CityCode": "421000",
+      "PlateNoPrefix": "鄂D"
+    },
+    {
+      "CityCode": "420500",
+      "PlateNoPrefix": "鄂E"
+    },
+    {
+      "CityCode": "420600",
+      "PlateNoPrefix": "鄂F"
+    },
+    {
+      "CityCode": "420700",
+      "PlateNoPrefix": "鄂G"
+    },
+    {
+      "CityCode": "420800",
+      "PlateNoPrefix": "鄂H"
+    },
+    {
+      "CityCode": "421100",
+      "PlateNoPrefix": "鄂J"
+    },
+    {
+      "CityCode": "420900",
+      "PlateNoPrefix": "鄂K"
+    },
+    {
+      "CityCode": "421200",
+      "PlateNoPrefix": "鄂L"
+    },
+    {
+      "CityCode": "422800",
+      "PlateNoPrefix": "鄂Q"
+    },
+    {
+      "CityCode": "421300",
+      "PlateNoPrefix": "鄂S"
+    },
+    {
+      "CityCode": "140100",
+      "PlateNoPrefix": "晋A"
+    },
+    {
+      "CityCode": "140200",
+      "PlateNoPrefix": "晋B"
+    },
+    {
+      "CityCode": "140300",
+      "PlateNoPrefix": "晋C"
+    },
+    {
+      "CityCode": "140400",
+      "PlateNoPrefix": "晋D"
+    },
+    {
+      "CityCode": "140500",
+      "PlateNoPrefix": "晋E"
+    },
+    {
+      "CityCode": "140600",
+      "PlateNoPrefix": "晋F"
+    },
+    {
+      "CityCode": "140900",
+      "PlateNoPrefix": "晋H"
+    },
+    {
+      "CityCode": "141100",
+      "PlateNoPrefix": "晋J"
+    },
+    {
+      "CityCode": "140700",
+      "PlateNoPrefix": "晋K"
+    },
+    {
+      "CityCode": "141000",
+      "PlateNoPrefix": "晋L"
+    },
+    {
+      "CityCode": "140800",
+      "PlateNoPrefix": "晋M"
+    },
+    {
+      "CityCode": "220100",
+      "PlateNoPrefix": "吉A"
+    },
+    {
+      "CityCode": "220200",
+      "PlateNoPrefix": "吉B"
+    },
+    {
+      "CityCode": "220300",
+      "PlateNoPrefix": "吉C"
+    },
+    {
+      "CityCode": "220400",
+      "PlateNoPrefix": "吉D"
+    },
+    {
+      "CityCode": "220500",
+      "PlateNoPrefix": "吉E"
+    },
+    {
+      "CityCode": "220600",
+      "PlateNoPrefix": "吉F"
+    },
+    {
+      "CityCode": "220800",
+      "PlateNoPrefix": "吉G"
+    },
+    {
+      "CityCode": "222400",
+      "PlateNoPrefix": "吉H"
+    },
+    {
+      "CityCode": "220700",
+      "PlateNoPrefix": "吉J"
+    },
+    {
+      "CityCode": "440100",
+      "PlateNoPrefix": "粤A"
+    },
+    {
+      "CityCode": "440300",
+      "PlateNoPrefix": "粤B"
+    },
+    {
+      "CityCode": "440400",
+      "PlateNoPrefix": "粤C"
+    },
+    {
+      "CityCode": "440500",
+      "PlateNoPrefix": "粤D"
+    },
+    {
+      "CityCode": "440600",
+      "PlateNoPrefix": "粤E"
+    },
+    {
+      "CityCode": "440200",
+      "PlateNoPrefix": "粤F"
+    },
+    {
+      "CityCode": "440800",
+      "PlateNoPrefix": "粤G"
+    },
+    {
+      "CityCode": "441200",
+      "PlateNoPrefix": "粤H"
+    },
+    {
+      "CityCode": "440700",
+      "PlateNoPrefix": "粤J"
+    },
+    {
+      "CityCode": "440900",
+      "PlateNoPrefix": "粤K"
+    },
+    {
+      "CityCode": "441300",
+      "PlateNoPrefix": "粤L"
+    },
+    {
+      "CityCode": "441400",
+      "PlateNoPrefix": "粤M"
+    },
+    {
+      "CityCode": "441500",
+      "PlateNoPrefix": "粤N"
+    },
+    {
+      "CityCode": "441600",
+      "PlateNoPrefix": "粤P"
+    },
+    {
+      "CityCode": "441700",
+      "PlateNoPrefix": "粤Q"
+    },
+    {
+      "CityCode": "441800",
+      "PlateNoPrefix": "粤R"
+    },
+    {
+      "CityCode": "441900",
+      "PlateNoPrefix": "粤S"
+    },
+    {
+      "CityCode": "442000",
+      "PlateNoPrefix": "粤T"
+    },
+    {
+      "CityCode": "445100",
+      "PlateNoPrefix": "粤U"
+    },
+    {
+      "CityCode": "445200",
+      "PlateNoPrefix": "粤V"
+    },
+    {
+      "CityCode": "445300",
+      "PlateNoPrefix": "粤W"
+    },
+    {
+      "CityCode": "640100",
+      "PlateNoPrefix": "宁A"
+    },
+    {
+      "CityCode": "640200",
+      "PlateNoPrefix": "宁B"
+    },
+    {
+      "CityCode": "640300",
+      "PlateNoPrefix": "宁C"
+    },
+    {
+      "CityCode": "640400",
+      "PlateNoPrefix": "宁D"
+    },
+    {
+      "CityCode": "640500",
+      "PlateNoPrefix": "宁E"
+    },
+    {
+      "CityCode": "110100",
+      "PlateNoPrefix": "京A"
+    },
+    {
+      "CityCode": "410100",
+      "PlateNoPrefix": "豫A"
+    },
+    {
+      "CityCode": "410200",
+      "PlateNoPrefix": "豫B"
+    },
+    {
+      "CityCode": "410300",
+      "PlateNoPrefix": "豫C"
+    },
+    {
+      "CityCode": "410400",
+      "PlateNoPrefix": "豫D"
+    },
+    {
+      "CityCode": "410500",
+      "PlateNoPrefix": "豫E"
+    },
+    {
+      "CityCode": "410600",
+      "PlateNoPrefix": "豫F"
+    },
+    {
+      "CityCode": "410700",
+      "PlateNoPrefix": "豫G"
+    },
+    {
+      "CityCode": "410800",
+      "PlateNoPrefix": "豫H"
+    },
+    {
+      "CityCode": "410900",
+      "PlateNoPrefix": "豫J"
+    },
+    {
+      "CityCode": "411000",
+      "PlateNoPrefix": "豫K"
+    },
+    {
+      "CityCode": "411100",
+      "PlateNoPrefix": "豫L"
+    },
+    {
+      "CityCode": "411200",
+      "PlateNoPrefix": "豫M"
+    },
+    {
+      "CityCode": "411400",
+      "PlateNoPrefix": "豫N"
+    },
+    {
+      "CityCode": "411600",
+      "PlateNoPrefix": "豫P"
+    },
+    {
+      "CityCode": "411700",
+      "PlateNoPrefix": "豫Q"
+    },
+    {
+      "CityCode": "411300",
+      "PlateNoPrefix": "豫R"
+    },
+    {
+      "CityCode": "411500",
+      "PlateNoPrefix": "豫S"
+    },
+    {
+      "CityCode": "230100",
+      "PlateNoPrefix": "黑A"
+    },
+    {
+      "CityCode": "230200",
+      "PlateNoPrefix": "黑B"
+    },
+    {
+      "CityCode": "231000",
+      "PlateNoPrefix": "黑C"
+    },
+    {
+      "CityCode": "230800",
+      "PlateNoPrefix": "黑D"
+    },
+    {
+      "CityCode": "230600",
+      "PlateNoPrefix": "黑E"
+    },
+    {
+      "CityCode": "230700",
+      "PlateNoPrefix": "黑F"
+    },
+    {
+      "CityCode": "230300",
+      "PlateNoPrefix": "黑G"
+    },
+    {
+      "CityCode": "230400",
+      "PlateNoPrefix": "黑H"
+    },
+    {
+      "CityCode": "230500",
+      "PlateNoPrefix": "黑J"
+    },
+    {
+      "CityCode": "230900",
+      "PlateNoPrefix": "黑K"
+    },
+    {
+      "CityCode": "231200",
+      "PlateNoPrefix": "黑M"
+    },
+    {
+      "CityCode": "231100",
+      "PlateNoPrefix": "黑N"
+    },
+    {
+      "CityCode": "232700",
+      "PlateNoPrefix": "黑P"
+    },
+    {
+      "CityCode": "370100",
+      "PlateNoPrefix": "鲁A"
+    },
+    {
+      "CityCode": "370200",
+      "PlateNoPrefix": "鲁B"
+    },
+    {
+      "CityCode": "370300",
+      "PlateNoPrefix": "鲁C"
+    },
+    {
+      "CityCode": "370400",
+      "PlateNoPrefix": "鲁D"
+    },
+    {
+      "CityCode": "370500",
+      "PlateNoPrefix": "鲁E"
+    },
+    {
+      "CityCode": "370600",
+      "PlateNoPrefix": "鲁F"
+    },
+    {
+      "CityCode": "370700",
+      "PlateNoPrefix": "鲁G"
+    },
+    {
+      "CityCode": "370800",
+      "PlateNoPrefix": "鲁H"
+    },
+    {
+      "CityCode": "370900",
+      "PlateNoPrefix": "鲁J"
+    },
+    {
+      "CityCode": "371000",
+      "PlateNoPrefix": "鲁K"
+    },
+    {
+      "CityCode": "371100",
+      "PlateNoPrefix": "鲁L"
+    },
+    {
+      "CityCode": "371600",
+      "PlateNoPrefix": "鲁M"
+    },
+    {
+      "CityCode": "371400",
+      "PlateNoPrefix": "鲁N"
+    },
+    {
+      "CityCode": "371500",
+      "PlateNoPrefix": "鲁P"
+    },
+    {
+      "CityCode": "371300",
+      "PlateNoPrefix": "鲁Q"
+    },
+    {
+      "CityCode": "371700",
+      "PlateNoPrefix": "鲁R"
+    },
+    {
+      "CityCode": "371200",
+      "PlateNoPrefix": "鲁S"
+    },
+    {
+      "CityCode": "330100",
+      "PlateNoPrefix": "浙A"
+    },
+    {
+      "CityCode": "330200",
+      "PlateNoPrefix": "浙B"
+    },
+    {
+      "CityCode": "330300",
+      "PlateNoPrefix": "浙C"
+    },
+    {
+      "CityCode": "330600",
+      "PlateNoPrefix": "浙D"
+    },
+    {
+      "CityCode": "330500",
+      "PlateNoPrefix": "浙E"
+    },
+    {
+      "CityCode": "330400",
+      "PlateNoPrefix": "浙F"
+    },
+    {
+      "CityCode": "330700",
+      "PlateNoPrefix": "浙G"
+    },
+    {
+      "CityCode": "330800",
+      "PlateNoPrefix": "浙H"
+    },
+    {
+      "CityCode": "331000",
+      "PlateNoPrefix": "浙J"
+    },
+    {
+      "CityCode": "331100",
+      "PlateNoPrefix": "浙K"
+    },
+    {
+      "CityCode": "330900",
+      "PlateNoPrefix": "浙L"
+    },
+    {
+      "CityCode": "450100",
+      "PlateNoPrefix": "桂A"
+    },
+    {
+      "CityCode": "450200",
+      "PlateNoPrefix": "桂B"
+    },
+    {
+      "CityCode": "450300",
+      "PlateNoPrefix": "桂C"
+    },
+    {
+      "CityCode": "450400",
+      "PlateNoPrefix": "桂D"
+    },
+    {
+      "CityCode": "450500",
+      "PlateNoPrefix": "桂E"
+    },
+    {
+      "CityCode": "451400",
+      "PlateNoPrefix": "桂F"
+    },
+    {
+      "CityCode": "451300",
+      "PlateNoPrefix": "桂G"
+    },
+    {
+      "CityCode": "451100",
+      "PlateNoPrefix": "桂J"
+    },
+    {
+      "CityCode": "450900",
+      "PlateNoPrefix": "桂K"
+    },
+    {
+      "CityCode": "451000",
+      "PlateNoPrefix": "桂L"
+    },
+    {
+      "CityCode": "451200",
+      "PlateNoPrefix": "桂M"
+    },
+    {
+      "CityCode": "450700",
+      "PlateNoPrefix": "桂N"
+    },
+    {
+      "CityCode": "450600",
+      "PlateNoPrefix": "桂P"
+    },
+    {
+      "CityCode": "450800",
+      "PlateNoPrefix": "桂R"
+    },
+    {
+      "CityCode": "150100",
+      "PlateNoPrefix": "蒙A"
+    },
+    {
+      "CityCode": "150200",
+      "PlateNoPrefix": "蒙B"
+    },
+    {
+      "CityCode": "150300",
+      "PlateNoPrefix": "蒙C"
+    },
+    {
+      "CityCode": "150400",
+      "PlateNoPrefix": "蒙D"
+    },
+    {
+      "CityCode": "150700",
+      "PlateNoPrefix": "蒙E"
+    },
+    {
+      "CityCode": "152200",
+      "PlateNoPrefix": "蒙F"
+    },
+    {
+      "CityCode": "150500",
+      "PlateNoPrefix": "蒙G"
+    },
+    {
+      "CityCode": "152500",
+      "PlateNoPrefix": "蒙H"
+    },
+    {
+      "CityCode": "150900",
+      "PlateNoPrefix": "蒙J"
+    },
+    {
+      "CityCode": "150600",
+      "PlateNoPrefix": "蒙K"
+    },
+    {
+      "CityCode": "150800",
+      "PlateNoPrefix": "蒙L"
+    },
+    {
+      "CityCode": "152900",
+      "PlateNoPrefix": "蒙M"
+    },
+    {
+      "CityCode": "350100",
+      "PlateNoPrefix": "闽A"
+    },
+    {
+      "CityCode": "350300",
+      "PlateNoPrefix": "闽B"
+    },
+    {
+      "CityCode": "350500",
+      "PlateNoPrefix": "闽C"
+    },
+    {
+      "CityCode": "350200",
+      "PlateNoPrefix": "闽D"
+    },
+    {
+      "CityCode": "350600",
+      "PlateNoPrefix": "闽E"
+    },
+    {
+      "CityCode": "350800",
+      "PlateNoPrefix": "闽F"
+    },
+    {
+      "CityCode": "350400",
+      "PlateNoPrefix": "闽G"
+    },
+    {
+      "CityCode": "350700",
+      "PlateNoPrefix": "闽H"
+    },
+    {
+      "CityCode": "350900",
+      "PlateNoPrefix": "闽J"
+    },
+    {
+      "CityCode": "510100",
+      "PlateNoPrefix": "川A"
+    },
+    {
+      "CityCode": "510700",
+      "PlateNoPrefix": "川B"
+    },
+    {
+      "CityCode": "510300",
+      "PlateNoPrefix": "川C"
+    },
+    {
+      "CityCode": "510400",
+      "PlateNoPrefix": "川D"
+    },
+    {
+      "CityCode": "510500",
+      "PlateNoPrefix": "川E"
+    },
+    {
+      "CityCode": "510600",
+      "PlateNoPrefix": "川F"
+    },
+    {
+      "CityCode": "510800",
+      "PlateNoPrefix": "川H"
+    },
+    {
+      "CityCode": "510900",
+      "PlateNoPrefix": "川J"
+    },
+    {
+      "CityCode": "511000",
+      "PlateNoPrefix": "川K"
+    },
+    {
+      "CityCode": "511100",
+      "PlateNoPrefix": "川L"
+    },
+    {
+      "CityCode": "512000",
+      "PlateNoPrefix": "川M"
+    },
+    {
+      "CityCode": "511500",
+      "PlateNoPrefix": "川Q"
+    },
+    {
+      "CityCode": "511300",
+      "PlateNoPrefix": "川R"
+    },
+    {
+      "CityCode": "511700",
+      "PlateNoPrefix": "川S"
+    },
+    {
+      "CityCode": "511800",
+      "PlateNoPrefix": "川T"
+    },
+    {
+      "CityCode": "513200",
+      "PlateNoPrefix": "川U"
+    },
+    {
+      "CityCode": "513300",
+      "PlateNoPrefix": "川V"
+    },
+    {
+      "CityCode": "513400",
+      "PlateNoPrefix": "川W"
+    },
+    {
+      "CityCode": "511600",
+      "PlateNoPrefix": "川X"
+    },
+    {
+      "CityCode": "511900",
+      "PlateNoPrefix": "川Y"
+    },
+    {
+      "CityCode": "511400",
+      "PlateNoPrefix": "川Z"
+    },
+    {
+      "CityCode": "500100",
+      "PlateNoPrefix": "渝A"
+    },
+    {
+      "CityCode": "120100",
+      "PlateNoPrefix": "津A"
+    },
+    {
+      "CityCode": "530100",
+      "PlateNoPrefix": "云A"
+    },
+    {
+      "CityCode": "530600",
+      "PlateNoPrefix": "云C"
+    },
+    {
+      "CityCode": "530300",
+      "PlateNoPrefix": "云D"
+    },
+    {
+      "CityCode": "532300",
+      "PlateNoPrefix": "云E"
+    },
+    {
+      "CityCode": "530400",
+      "PlateNoPrefix": "云F"
+    },
+    {
+      "CityCode": "532500",
+      "PlateNoPrefix": "云G"
+    },
+    {
+      "CityCode": "532600",
+      "PlateNoPrefix": "云H"
+    },
+    {
+      "CityCode": "530800",
+      "PlateNoPrefix": "云J"
+    },
+    {
+      "CityCode": "532800",
+      "PlateNoPrefix": "云K"
+    },
+    {
+      "CityCode": "532900",
+      "PlateNoPrefix": "云L"
+    },
+    {
+      "CityCode": "530500",
+      "PlateNoPrefix": "云M"
+    },
+    {
+      "CityCode": "533100",
+      "PlateNoPrefix": "云N"
+    },
+    {
+      "CityCode": "530700",
+      "PlateNoPrefix": "云P"
+    },
+    {
+      "CityCode": "533300",
+      "PlateNoPrefix": "云Q"
+    },
+    {
+      "CityCode": "533400",
+      "PlateNoPrefix": "云R"
+    },
+    {
+      "CityCode": "530900",
+      "PlateNoPrefix": "云S"
+    },
+    {
+      "CityCode": "430100",
+      "PlateNoPrefix": "湘A"
+    },
+    {
+      "CityCode": "430200",
+      "PlateNoPrefix": "湘B"
+    },
+    {
+      "CityCode": "430300",
+      "PlateNoPrefix": "湘C"
+    },
+    {
+      "CityCode": "430400",
+      "PlateNoPrefix": "湘D"
+    },
+    {
+      "CityCode": "430500",
+      "PlateNoPrefix": "湘E"
+    },
+    {
+      "CityCode": "430600",
+      "PlateNoPrefix": "湘F"
+    },
+    {
+      "CityCode": "430800",
+      "PlateNoPrefix": "湘G"
+    },
+    {
+      "CityCode": "430900",
+      "PlateNoPrefix": "湘H"
+    },
+    {
+      "CityCode": "430700",
+      "PlateNoPrefix": "湘J"
+    },
+    {
+      "CityCode": "431300",
+      "PlateNoPrefix": "湘K"
+    },
+    {
+      "CityCode": "431000",
+      "PlateNoPrefix": "湘L"
+    },
+    {
+      "CityCode": "431100",
+      "PlateNoPrefix": "湘M"
+    },
+    {
+      "CityCode": "431200",
+      "PlateNoPrefix": "湘N"
+    },
+    {
+      "CityCode": "433100",
+      "PlateNoPrefix": "湘U"
+    },
+    {
+      "CityCode": "650100",
+      "PlateNoPrefix": "新A"
+    },
+    {
+      "CityCode": "652300",
+      "PlateNoPrefix": "新B"
+    },
+    {
+      "CityCode": "652700",
+      "PlateNoPrefix": "新E"
+    },
+    {
+      "CityCode": "654000",
+      "PlateNoPrefix": "新F"
+    },
+    {
+      "CityCode": "654200",
+      "PlateNoPrefix": "新G"
+    },
+    {
+      "CityCode": "654300",
+      "PlateNoPrefix": "新H"
+    },
+    {
+      "CityCode": "650200",
+      "PlateNoPrefix": "新J"
+    },
+    {
+      "CityCode": "650400",
+      "PlateNoPrefix": "新K"
+    },
+    {
+      "CityCode": "652200",
+      "PlateNoPrefix": "新L"
+    },
+    {
+      "CityCode": "652800",
+      "PlateNoPrefix": "新M"
+    },
+    {
+      "CityCode": "652900",
+      "PlateNoPrefix": "新N"
+    },
+    {
+      "CityCode": "653000",
+      "PlateNoPrefix": "新P"
+    },
+    {
+      "CityCode": "653100",
+      "PlateNoPrefix": "新Q"
+    },
+    {
+      "CityCode": "653200",
+      "PlateNoPrefix": "新R"
+    },
+    {
+      "CityCode": "360100",
+      "PlateNoPrefix": "赣A"
+    },
+    {
+      "CityCode": "360700",
+      "PlateNoPrefix": "赣B"
+    },
+    {
+      "CityCode": "360900",
+      "PlateNoPrefix": "赣C"
+    },
+    {
+      "CityCode": "360800",
+      "PlateNoPrefix": "赣D"
+    },
+    {
+      "CityCode": "361100",
+      "PlateNoPrefix": "赣E"
+    },
+    {
+      "CityCode": "361000",
+      "PlateNoPrefix": "赣F"
+    },
+    {
+      "CityCode": "360400",
+      "PlateNoPrefix": "赣G"
+    },
+    {
+      "CityCode": "360200",
+      "PlateNoPrefix": "赣H"
+    },
+    {
+      "CityCode": "360300",
+      "PlateNoPrefix": "赣J"
+    },
+    {
+      "CityCode": "360500",
+      "PlateNoPrefix": "赣K"
+    },
+    {
+      "CityCode": "360600",
+      "PlateNoPrefix": "赣L"
+    },
+    {
+      "CityCode": "620100",
+      "PlateNoPrefix": "甘A"
+    },
+    {
+      "CityCode": "620200",
+      "PlateNoPrefix": "甘B"
+    },
+    {
+      "CityCode": "620300",
+      "PlateNoPrefix": "甘C"
+    },
+    {
+      "CityCode": "620400",
+      "PlateNoPrefix": "甘D"
+    },
+    {
+      "CityCode": "620500",
+      "PlateNoPrefix": "甘E"
+    },
+    {
+      "CityCode": "620900",
+      "PlateNoPrefix": "甘F"
+    },
+    {
+      "CityCode": "620700",
+      "PlateNoPrefix": "甘G"
+    },
+    {
+      "CityCode": "620600",
+      "PlateNoPrefix": "甘H"
+    },
+    {
+      "CityCode": "621100",
+      "PlateNoPrefix": "甘J"
+    },
+    {
+      "CityCode": "621200",
+      "PlateNoPrefix": "甘K"
+    },
+    {
+      "CityCode": "620800",
+      "PlateNoPrefix": "甘L"
+    },
+    {
+      "CityCode": "621000",
+      "PlateNoPrefix": "甘M"
+    },
+    {
+      "CityCode": "622900",
+      "PlateNoPrefix": "甘N"
+    },
+    {
+      "CityCode": "623000",
+      "PlateNoPrefix": "甘P"
+    },
+    {
+      "CityCode": "610100",
+      "PlateNoPrefix": "陕A"
+    },
+    {
+      "CityCode": "610200",
+      "PlateNoPrefix": "陕B"
+    },
+    {
+      "CityCode": "610300",
+      "PlateNoPrefix": "陕C"
+    },
+    {
+      "CityCode": "610400",
+      "PlateNoPrefix": "陕D"
+    },
+    {
+      "CityCode": "610500",
+      "PlateNoPrefix": "陕E"
+    },
+    {
+      "CityCode": "610700",
+      "PlateNoPrefix": "陕F"
+    },
+    {
+      "CityCode": "610900",
+      "PlateNoPrefix": "陕G"
+    },
+    {
+      "CityCode": "611000",
+      "PlateNoPrefix": "陕H"
+    },
+    {
+      "CityCode": "610600",
+      "PlateNoPrefix": "陕J"
+    },
+    {
+      "CityCode": "610800",
+      "PlateNoPrefix": "陕K"
+    },
+    {
+      "CityCode": "520100",
+      "PlateNoPrefix": "贵A"
+    },
+    {
+      "CityCode": "520200",
+      "PlateNoPrefix": "贵B"
+    },
+    {
+      "CityCode": "520300",
+      "PlateNoPrefix": "贵C"
+    },
+    {
+      "CityCode": "520600",
+      "PlateNoPrefix": "贵D"
+    },
+    {
+      "CityCode": "522300",
+      "PlateNoPrefix": "贵E"
+    },
+    {
+      "CityCode": "520500",
+      "PlateNoPrefix": "贵F"
+    },
+    {
+      "CityCode": "520400",
+      "PlateNoPrefix": "贵G"
+    },
+    {
+      "CityCode": "522600",
+      "PlateNoPrefix": "贵H"
+    },
+    {
+      "CityCode": "522700",
+      "PlateNoPrefix": "贵J"
+    },
+    {
+      "CityCode": "630100",
+      "PlateNoPrefix": "青A"
+    },
+    {
+      "CityCode": "630200",
+      "PlateNoPrefix": "青B"
+    },
+    {
+      "CityCode": "632200",
+      "PlateNoPrefix": "青C"
+    },
+    {
+      "CityCode": "632300",
+      "PlateNoPrefix": "青D"
+    },
+    {
+      "CityCode": "632600",
+      "PlateNoPrefix": "青F"
+    },
+    {
+      "CityCode": "632700",
+      "PlateNoPrefix": "青G"
+    },
+    {
+      "CityCode": "632800",
+      "PlateNoPrefix": "青H"
+    },
+    {
+      "CityCode": "540100",
+      "PlateNoPrefix": "藏A"
+    },
+    {
+      "CityCode": "540300",
+      "PlateNoPrefix": "藏B"
+    },
+    {
+      "CityCode": "542200",
+      "PlateNoPrefix": "藏C"
+    },
+    {
+      "CityCode": "540200",
+      "PlateNoPrefix": "藏D"
+    },
+    {
+      "CityCode": "542400",
+      "PlateNoPrefix": "藏E"
+    },
+    {
+      "CityCode": "542500",
+      "PlateNoPrefix": "藏F"
+    },
+    {
+      "CityCode": "540400",
+      "PlateNoPrefix": "藏G"
+    },
+    {
+      "CityCode": "460100",
+      "PlateNoPrefix": "琼A"
+    },
+    {
+      "CityCode": "460200",
+      "PlateNoPrefix": "琼B"
+    },
+    {
+      "CityCode": "310100",
+      "PlateNoPrefix": "沪A"
+    }
+  ]
+}

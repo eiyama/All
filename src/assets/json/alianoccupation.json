@@ -1,0 +1,4235 @@
+{
+	"result": [
+	  {
+		"tradeName": "机关团体公司行号",
+		"tradeCode": "JGTTGSHH",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "内勤人员",
+			"tradeCode": "A01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外勤人员(从事+联系工作)",
+			"tradeCode": "A02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "农业",
+		"tradeCode": "NY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "农场经营者(不亲自作业)",
+			"tradeCode": "B01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "农夫",
+			"tradeCode": "B02",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "长短工",
+			"tradeCode": "B03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "果农",
+			"tradeCode": "B04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "苗圃栽培人员",
+			"tradeCode": "B05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "花圃栽培人员",
+			"tradeCode": "B06",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "饲养家禽家畜人员",
+			"tradeCode": "B07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "农业技师",
+			"tradeCode": "B08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "农业机械之操作或修护人员",
+			"tradeCode": "B09",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "农具商",
+			"tradeCode": "B10",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "牧业",
+		"tradeCode": "MY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "畜牧场经营者(不亲自作业)",
+			"tradeCode": "B11",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "畜牧工作人员",
+			"tradeCode": "B12",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "兽医",
+			"tradeCode": "B13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "内陆渔业",
+		"tradeCode": "NLYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "渔场经营者(不亲自作业)",
+			"tradeCode": "C01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "渔场经营者(亲自作业)",
+			"tradeCode": "C02",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "养殖工人(内陆)",
+			"tradeCode": "C03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "养殖工人(沿海)",
+			"tradeCode": "C04",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水族馆经营者",
+			"tradeCode": "C05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "捕渔人(内陆)",
+			"tradeCode": "C06",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水产实验人员(室内)",
+			"tradeCode": "C08",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "木材加工业",
+		"tradeCode": "MCJGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "木材工厂现场之机员",
+			"tradeCode": "D09",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班",
+			"tradeCode": "D10",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "分级员",
+			"tradeCode": "D11",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检查员",
+			"tradeCode": "D12",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "标记员",
+			"tradeCode": "D13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "磅秤员",
+			"tradeCode": "D14",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "锯木工人",
+			"tradeCode": "D15",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "防腐剂工人",
+			"tradeCode": "D16",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木材储藏槽工人",
+			"tradeCode": "D17",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木材搬运工人",
+			"tradeCode": "D18",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "吊车操作人员",
+			"tradeCode": "D19",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "合板制造人员",
+			"tradeCode": "D20",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "造林业",
+		"tradeCode": "ZLY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "领班",
+			"tradeCode": "D21",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "山地造林工人",
+			"tradeCode": "D22",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "山林管理人员",
+			"tradeCode": "D23",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "平地育苗工人",
+			"tradeCode": "D25",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "实验室育苗栽培人员",
+			"tradeCode": "D26",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "坑内作业",
+		"tradeCode": "KNZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "经营者(不到现场者)",
+			"tradeCode": "E02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "经营者(现场监督者)",
+			"tradeCode": "E03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "经理人员",
+			"tradeCode": "E04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "矿业工程师、技师、领班",
+			"tradeCode": "E05",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工矿安全人员",
+			"tradeCode": "E07",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "采砂石业",
+		"tradeCode": "CSSY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "采石业工人",
+			"tradeCode": "E09",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "采砂业工人",
+			"tradeCode": "E10",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "陆上油矿开采业",
+		"tradeCode": "LSYKKCY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "行政人员",
+			"tradeCode": "E11",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "E12",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "陆运",
+		"tradeCode": "LY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "计程车行、货运行之负责人(不叁与驾驶者)",
+			"tradeCode": "F01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "F02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "内勤工作人员",
+			"tradeCode": "F03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自用小客车司机",
+			"tradeCode": "F04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自用大客车司机",
+			"tradeCode": "F05",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "计程车司机",
+			"tradeCode": "F06",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "游览车司机及服务员",
+			"tradeCode": "F07",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "客运车司机服务员",
+			"tradeCode": "F08",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "小型客货两用车司机",
+			"tradeCode": "F09",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自用货车司机、随车工人、小型自用货车司机",
+			"tradeCode": "F10",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "人力三轮车夫",
+			"tradeCode": "F11",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "救护车驾驶员",
+			"tradeCode": "F13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "柜台售票员",
+			"tradeCode": "F15",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "客运车稽核人员",
+			"tradeCode": "F16",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "营业用货车司机(4吨以下)",
+			"tradeCode": "F18",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "营业用货车随车工人(4吨以下)",
+			"tradeCode": "F20",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "货柜车司机、随车工人",
+			"tradeCode": "F25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "缆车操作员",
+			"tradeCode": "F26",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "铁路",
+		"tradeCode": "TL",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "站长",
+			"tradeCode": "F28",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "票房工作人员",
+			"tradeCode": "F29",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "播音员",
+			"tradeCode": "F30",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般内勤人员",
+			"tradeCode": "F31",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车站剪票员",
+			"tradeCode": "F32",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "服务台人员",
+			"tradeCode": "F33",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "月台工作人员",
+			"tradeCode": "F34",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "行李搬运工人",
+			"tradeCode": "F35",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车站清洁工人",
+			"tradeCode": "F36",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "随车人员(技术员除外)",
+			"tradeCode": "F37",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "驾驶员",
+			"tradeCode": "F38",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "燃料填充员",
+			"tradeCode": "F39",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机工",
+			"tradeCode": "F40",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电工",
+			"tradeCode": "F41",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修护厂厂长",
+			"tradeCode": "F42",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修护厂一般内勤人员",
+			"tradeCode": "F43",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修护厂工程师",
+			"tradeCode": "F44",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修护厂技工",
+			"tradeCode": "F45",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修路工",
+			"tradeCode": "F46",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铁路维护工",
+			"tradeCode": "F47",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "平交道看守人员",
+			"tradeCode": "F48",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铁路货运：领班",
+			"tradeCode": "F49",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铁路货运：搬运工人",
+			"tradeCode": "F50",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "航运",
+		"tradeCode": "HY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "码头工人及领班(陆上作业)",
+			"tradeCode": "G23",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "堆高机操作员",
+			"tradeCode": "G26",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "仓库管理人",
+			"tradeCode": "G27",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领航员",
+			"tradeCode": "G28",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "引水人",
+			"tradeCode": "G29",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "关务人员",
+			"tradeCode": "G30",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "稽查人员",
+			"tradeCode": "G31",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "缉私人员",
+			"tradeCode": "G32",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "D拖船驾驶员及工作人员",
+			"tradeCode": "G33",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "渡轮驾驶员及工作人员",
+			"tradeCode": "G34",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "空运",
+		"tradeCode": "KY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "服务台人员",
+			"tradeCode": "G36",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般内勤人员",
+			"tradeCode": "G37",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "塔台工作人员",
+			"tradeCode": "G38",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "关务人员",
+			"tradeCode": "G39",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检查人员",
+			"tradeCode": "G40",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "运务人员",
+			"tradeCode": "G41",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "缉私人员",
+			"tradeCode": "G42",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "站内清洁工人",
+			"tradeCode": "G43",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机场内交通车司机",
+			"tradeCode": "G44",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "行李货运搬运工人",
+			"tradeCode": "G45",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "加添燃料员",
+			"tradeCode": "G46",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "飞机洗刷人员",
+			"tradeCode": "G47",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "清洁工(高墙或天花板)",
+			"tradeCode": "G48",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "跑道维护工",
+			"tradeCode": "G49",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机械员",
+			"tradeCode": "G50",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "飞机修护人员",
+			"tradeCode": "G51",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "办事处人员",
+			"tradeCode": "G52",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "票务人员",
+			"tradeCode": "G53",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机场柜台人员",
+			"tradeCode": "G54",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "清舱员",
+			"tradeCode": "G55",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般内勤人",
+			"tradeCode": "G56",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "G57",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "报关人员",
+			"tradeCode": "G58",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "理货员",
+			"tradeCode": "G59",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "站长",
+			"tradeCode": "G64",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "播音员",
+			"tradeCode": "G65",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "旅游业",
+		"tradeCode": "LYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般内勤人员",
+			"tradeCode": "H01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "H02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "导游",
+			"tradeCode": "H03",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "旅馆业",
+		"tradeCode": "LGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "H04",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般内勤服务员",
+			"tradeCode": "H05",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "H06",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "收帐员",
+			"tradeCode": "H07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技工注：餐饮部工作人员比照餐饮业",
+			"tradeCode": "H08",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "餐饮业",
+		"tradeCode": "CYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "经理人员",
+			"tradeCode": "H09",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般内勤工作人员",
+			"tradeCode": "H10",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "柜台人员",
+			"tradeCode": "H11",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "收帐员",
+			"tradeCode": "H12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "采购人员",
+			"tradeCode": "H13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "厨师(大酒店)",
+			"tradeCode": "H14",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "厨师(饭店,酒楼)",
+			"tradeCode": "H15",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "服务人员",
+			"tradeCode": "H16",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "建筑公司(土木工程)",
+		"tradeCode": "JZGS(TMGC)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "建筑师",
+			"tradeCode": "I01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制图员",
+			"tradeCode": "I02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "内勤工作人员",
+			"tradeCode": "I03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "测量员",
+			"tradeCode": "I04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工程员",
+			"tradeCode": "I05",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "监工",
+			"tradeCode": "I06",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "业务员",
+			"tradeCode": "I07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "引导参观工地及工地之服务人员",
+			"tradeCode": "I08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责人（不亲自作业，不在现场)",
+			"tradeCode": "I09",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责人(实际监工，领班或亲自参与建筑",
+			"tradeCode": "I10",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班",
+			"tradeCode": "I11",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "模板工",
+			"tradeCode": "I12",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木匠",
+			"tradeCode": "I13",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "泥水匠",
+			"tradeCode": "I14",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "混凝土混合机操作员",
+			"tradeCode": "I15",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "油漆工",
+			"tradeCode": "I16",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水电工",
+			"tradeCode": "I17",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "承包商(土木建筑)",
+			"tradeCode": "I23",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "磨石工人",
+			"tradeCode": "I24",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "洗石工人",
+			"tradeCode": "I25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "石棉瓦或浪板安装工人",
+			"tradeCode": "I26",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铝门窗装修人员",
+			"tradeCode": "I27",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "排水工程人员",
+			"tradeCode": "I28",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "防水工程人员",
+			"tradeCode": "I29",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "铁路道路铺设",
+		"tradeCode": "TLDLPS",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "I30",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "I31",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "道路工程机械操作员(压土机、推土机等)",
+			"tradeCode": "I32",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "道路工程车辆驾驶员",
+			"tradeCode": "I33",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "平地铺设工人",
+			"tradeCode": "I35",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "维护工人",
+			"tradeCode": "I36",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "管道铺设及维护工人",
+			"tradeCode": "I38",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "造修船业",
+		"tradeCode": "ZXCY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "I40",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "I41",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电梯升降梯",
+		"tradeCode": "DTSJT",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "安装工人(非高空作业)",
+			"tradeCode": "I43",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修理及维护工人",
+			"tradeCode": "I45",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "操作员(不包括矿场使用者)",
+			"tradeCode": "I46",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "装璜业",
+		"tradeCode": "ZHY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "设计制图人员",
+			"tradeCode": "I47",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "地毯之装设人员",
+			"tradeCode": "I48",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "室内装璜人员",
+			"tradeCode": "I49",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "室外装璜人员(非高空作业)",
+			"tradeCode": "I50",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "其他",
+		"tradeCode": "QT",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "承包商、监工",
+			"tradeCode": "I52",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "地质探测员（山区、海上)",
+			"tradeCode": "I53",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "地质探测员（平地）",
+			"tradeCode": "I54",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工地看守员",
+			"tradeCode": "I55",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "寺庙彩绘人员",
+			"tradeCode": "I63",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责人(出版商、书店、文具店)",
+			"tradeCode": "O06",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "店员",
+			"tradeCode": "O07",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "O08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "送货员",
+			"tradeCode": "O09",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "图书馆工作人员",
+			"tradeCode": "O10",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "博物馆工作人员",
+			"tradeCode": "O11",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "汽车驾驶训练班教练",
+			"tradeCode": "O12",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "各项运动教练及运动员、有氧运动教师",
+			"tradeCode": "O13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "公证行外务员",
+			"tradeCode": "S12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "报关行外务员",
+			"tradeCode": "S13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "理发师",
+			"tradeCode": "S14",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "美容师",
+			"tradeCode": "S15",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "钟表匠",
+			"tradeCode": "S16",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "鞋匠、雨伞匠",
+			"tradeCode": "S17",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "洗衣店工人",
+			"tradeCode": "S18",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "勘舆师",
+			"tradeCode": "S19",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "警卫人员(内勤)",
+			"tradeCode": "S20",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "大楼管理员",
+			"tradeCode": "S22",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "摄影师",
+			"tradeCode": "S23",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "道路清洁工",
+			"tradeCode": "S24",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "下水道路清洁工",
+			"tradeCode": "S25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "清洁、打蜡工人",
+			"tradeCode": "S26",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车辆保管人员",
+			"tradeCode": "S28",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "加油站人员",
+			"tradeCode": "S29",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "地磅人员",
+			"tradeCode": "S30",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "三温暖业负责人",
+			"tradeCode": "S32",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "三温暖业柜台人员",
+			"tradeCode": "S33",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "三温暖业工作人员",
+			"tradeCode": "S34",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "勤杂工",
+			"tradeCode": "S35",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "门卫",
+			"tradeCode": "S36",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "退休人员",
+			"tradeCode": "T04",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "钟点工",
+			"tradeCode": "X01",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "钢铁业",
+		"tradeCode": "GTY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人(不亲自作业，不在现场)",
+			"tradeCode": "J01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责人(实际担任领班或亲自参与现场工作",
+			"tradeCode": "J02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J03",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "J05",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车间主任",
+			"tradeCode": "J64",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车间统计员",
+			"tradeCode": "J65",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "仓库管理员",
+			"tradeCode": "J66",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检验员",
+			"tradeCode": "J67",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "铁工厂，机械厂",
+		"tradeCode": "TGC，JXC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "领班",
+			"tradeCode": "J07",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "板金工",
+			"tradeCode": "J08",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "装配工",
+			"tradeCode": "J09",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车床工(全自动)",
+			"tradeCode": "J11",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水电工",
+			"tradeCode": "J15",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铅字铸造工",
+			"tradeCode": "J16",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电镀工",
+			"tradeCode": "J19",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "钳工",
+			"tradeCode": "J23",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "铲车工",
+			"tradeCode": "J25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电子业，家电业",
+		"tradeCode": "DZY，JDY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J28",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J29",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "J30",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "装配工、操作自动I.C.制作人员",
+			"tradeCode": "J31",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修理工",
+			"tradeCode": "J32",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "包装工人",
+			"tradeCode": "J33",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制造工",
+			"tradeCode": "J34",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电机业",
+		"tradeCode": "DJY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J35",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J36",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "J37",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "空气调节器之装修人员",
+			"tradeCode": "J38",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "冷冻修理工",
+			"tradeCode": "J41",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "塑胶、橡胶业",
+		"tradeCode": "SJ、XJY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J42",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J43",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "J44",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "塑橡胶一般工人",
+			"tradeCode": "J45",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "塑胶射出成型工人(自动)",
+			"tradeCode": "J46",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "塑胶射出成型工人(其他)",
+			"tradeCode": "J47",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检验员",
+			"tradeCode": "J70",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "水泥业(包括水泥、石灰、石膏)",
+		"tradeCode": "SNY(BKSN、SH、SG)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J48",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J49",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "J50",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工人",
+			"tradeCode": "J51",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "化学原料业",
+		"tradeCode": "HXYLY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "J55",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "J56",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般工人",
+			"tradeCode": "J57",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电池制造(技师)",
+			"tradeCode": "J59",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电池制造(工人)",
+			"tradeCode": "J60",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "汽车、机车、自行车制造业、修理业",
+		"tradeCode": "QC、JC、ZHCZZY、XLY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "K01",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K02",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制造工人(汽、机车)",
+			"tradeCode": "K03",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制造工人(自行车)",
+			"tradeCode": "K04",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修理保养工人（汽、机车）",
+			"tradeCode": "K05",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "修理保养工人（自行车）",
+			"tradeCode": "K06",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "K07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "试车人员",
+			"tradeCode": "K08",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "纺织及成衣业",
+		"tradeCode": "FZJCYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "K09",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "设计师",
+			"tradeCode": "K10",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K11",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "裁缝",
+			"tradeCode": "K12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制造工人",
+			"tradeCode": "K13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "染整工人",
+			"tradeCode": "K14",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "床垫及枕头制造业",
+		"tradeCode": "CDJZTZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责行政工作(经理、文贝)",
+			"tradeCode": "K15",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "切棉、压边、锯工、椅垫工人及其他熟练工人",
+			"tradeCode": "K16",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "吹气、毛毡、填料、机械操作、堆棉",
+			"tradeCode": "K17",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "造纸工业",
+		"tradeCode": "ZZGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K19",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "监工",
+			"tradeCode": "K20",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "造纸厂工人",
+			"tradeCode": "K21",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "纸箱厂工人",
+			"tradeCode": "K22",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "纸箱制造工人",
+			"tradeCode": "K23",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "石棉制造业",
+		"tradeCode": "SMZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "管工、督察、工人",
+			"tradeCode": "K24",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "家俱制造业",
+		"tradeCode": "JJZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K25",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "领班、监工",
+			"tradeCode": "K26",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木制家俱制造工人",
+			"tradeCode": "K27",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木制家俱修理工",
+			"tradeCode": "K28",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "金属家俱制造工人",
+			"tradeCode": "K29",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "金属家俱修理工",
+			"tradeCode": "K30",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "玻璃及镜片制造业",
+		"tradeCode": "BLJJPZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责行政工作(独资业权人、经理、文员、零售商)",
+			"tradeCode": "K31",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "手工艺品业",
+		"tradeCode": "SGYPY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "竹木制手工艺品之加工工人",
+			"tradeCode": "K33",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "竹木制手工艺品之雕刻工人",
+			"tradeCode": "K34",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "金属手工艺品之加工工人",
+			"tradeCode": "K35",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "金属手工艺品之雕刻工人",
+			"tradeCode": "K36",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "布类纸品工艺品之加工工人",
+			"tradeCode": "K37",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "矿石手工艺品加工人员",
+			"tradeCode": "K38",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "陶器工业",
+		"tradeCode": "TQGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工人(长石磨工及挑选、燧石、货仓工人、其他熟练工人)",
+			"tradeCode": "K39",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "用喷沙器切割玻璃工人",
+			"tradeCode": "K40",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电线电缆业",
+		"tradeCode": "DXDLY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K41",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "工人",
+			"tradeCode": "K42",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "肥皂及洗洁精制造业",
+		"tradeCode": "FZJXJJZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责行政工(经理、主任、文员)",
+			"tradeCode": "K43",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "熟练及普通工人",
+			"tradeCode": "K44",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "暴身於有毒化合物之工人",
+			"tradeCode": "K45",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "食品饮料制造业",
+		"tradeCode": "SPYLZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "冰块制造",
+			"tradeCode": "K46",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K47",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "制造工人",
+			"tradeCode": "K48",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "碾米厂操作人员",
+			"tradeCode": "K49",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "烟草、雪茄及香烟制造业",
+		"tradeCode": "YC、XQJXYZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "技师",
+			"tradeCode": "K50",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责行政工作(经理、主任、文员)",
+			"tradeCode": "K51",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "熟练工人、机器操作员",
+			"tradeCode": "K52",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "家电制造业",
+		"tradeCode": "JDZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般制造工人",
+			"tradeCode": "K53",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "装配工",
+			"tradeCode": "K54",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "包装工",
+			"tradeCode": "K55",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车床工（全自动）",
+			"tradeCode": "K61",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "生物制品业",
+		"tradeCode": "SWZPY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般操作工人",
+			"tradeCode": "K63",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "室验员",
+			"tradeCode": "K64",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "制药厂",
+		"tradeCode": "ZYC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般工人",
+			"tradeCode": "K65",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "实验人员",
+			"tradeCode": "K66",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "文具制造业(制笔,制伞业等)",
+		"tradeCode": "WJZZY(ZB,ZSYD)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般操作工人",
+			"tradeCode": "K67",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "装配工",
+			"tradeCode": "K68",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检验工",
+			"tradeCode": "K69",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "出纳",
+			"tradeCode": "K70",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "食品加工业",
+		"tradeCode": "SPJGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "包装工",
+			"tradeCode": "K71",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "仓库管理员",
+			"tradeCode": "K72",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "新闻业,杂志业",
+		"tradeCode": "XWY,ZZY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "内勤人员",
+			"tradeCode": "L01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外勤记者",
+			"tradeCode": "L02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "摄影记者",
+			"tradeCode": "L03",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "推销员",
+			"tradeCode": "L05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "排版工",
+			"tradeCode": "L06",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "装订工",
+			"tradeCode": "L07",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "印刷工",
+			"tradeCode": "L08",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "送货员",
+			"tradeCode": "L09",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "送报员",
+			"tradeCode": "L10",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "广告业",
+		"tradeCode": "GGY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般内勤人员",
+			"tradeCode": "L11",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "业务员",
+			"tradeCode": "L12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "广告影片之拍摄录制人员",
+			"tradeCode": "L13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "医院",
+		"tradeCode": "YY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般医务行政人员",
+			"tradeCode": "M01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般医师及护士",
+			"tradeCode": "M02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "精神病科医师、看护及护士",
+			"tradeCode": "M03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "兽医",
+			"tradeCode": "M04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "医院炊事",
+			"tradeCode": "M05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "杂工",
+			"tradeCode": "M06",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "清洁工",
+			"tradeCode": "M07",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "保健人员",
+		"tradeCode": "BJRY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "病理检查员",
+			"tradeCode": "M08",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "分析员",
+			"tradeCode": "M09",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "放射线之技术人员",
+			"tradeCode": "M10",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "放射线之修护人员",
+			"tradeCode": "M11",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "助产士",
+			"tradeCode": "M12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "跌打损伤治疗人员",
+			"tradeCode": "M13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "监狱、看守所医生、护理人员",
+			"tradeCode": "M14",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电影业,电视业",
+		"tradeCode": "DYY,DSY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "制片人",
+			"tradeCode": "N01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "影片商",
+			"tradeCode": "N02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "编剧",
+			"tradeCode": "N03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般演员(导演)",
+			"tradeCode": "N04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "化妆师",
+			"tradeCode": "N07",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "场记",
+			"tradeCode": "N08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "摄影工作人员",
+			"tradeCode": "N09",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "灯光及音响效果工作人员",
+			"tradeCode": "N10",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "冲片工作人员",
+			"tradeCode": "N11",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "洗片工作人员",
+			"tradeCode": "N12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电视记者",
+			"tradeCode": "N13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机械工、电工",
+			"tradeCode": "N14",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "布景搭设人员",
+			"tradeCode": "N15",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电影院售票员",
+			"tradeCode": "N16",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电影院放映人员",
+			"tradeCode": "N17",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电影院服务人员",
+			"tradeCode": "N18",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "配音演员",
+			"tradeCode": "N67",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "高尔夫球场",
+		"tradeCode": "GEFQC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "N19",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "球场保养工人",
+			"tradeCode": "N20",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "维护工人",
+			"tradeCode": "N21",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "球僮",
+			"tradeCode": "N22",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "保龄球馆",
+		"tradeCode": "BLQG",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "记分员",
+			"tradeCode": "N23",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "柜台人员",
+			"tradeCode": "N24",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机械修护工人",
+			"tradeCode": "N25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "清洁工人",
+			"tradeCode": "N26",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "球场",
+		"tradeCode": "QC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "N27",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "记分员",
+			"tradeCode": "N28",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "游泳池",
+		"tradeCode": "YYC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "N29",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "管理员",
+			"tradeCode": "N30",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "教练",
+			"tradeCode": "N31",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "售票员",
+			"tradeCode": "N32",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "救生员",
+			"tradeCode": "N33",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "海水浴场",
+		"tradeCode": "HSYC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "N34",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "管理员",
+			"tradeCode": "N35",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "售票员",
+			"tradeCode": "N36",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "其他游乐园(包括动物园、MTV、KTV)",
+		"tradeCode": "QTYLY(BKDWY、MTV、KTV)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "N38",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "售票员",
+			"tradeCode": "N39",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电动游乐器具操作员",
+			"tradeCode": "N40",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般清洁工",
+			"tradeCode": "N41",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "兽栏清洁工",
+			"tradeCode": "N42",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水电机械工",
+			"tradeCode": "N43",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "兽医(动物园)",
+			"tradeCode": "N46",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "KTV、MTV、PUB工作人员",
+			"tradeCode": "N47",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "艺术及演艺人员",
+		"tradeCode": "YSJYYRY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "作曲人员",
+			"tradeCode": "N48",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "编曲人员",
+			"tradeCode": "N49",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "演奏人员",
+			"tradeCode": "N50",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "绘画人员",
+			"tradeCode": "N51",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "舞蹈演艺人员",
+			"tradeCode": "N52",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "雕塑人员",
+			"tradeCode": "N53",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "戏剧人员",
+			"tradeCode": "N54",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "巡回演出戏剧团体人员",
+			"tradeCode": "N55",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "作家",
+			"tradeCode": "N56",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "特种营业",
+		"tradeCode": "TZYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "咖啡室工作人员",
+			"tradeCode": "N57",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "茶室工作人员",
+			"tradeCode": "N58",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": " 酒家工作人员",
+			"tradeCode": "N59",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": " 乐户工作人员",
+			"tradeCode": "N60",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": " 舞厅工作人员",
+			"tradeCode": "N61",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": " 歌厅工作人员",
+			"tradeCode": "N62",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": " 酒吧工作人员",
+			"tradeCode": "N63",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责人",
+			"tradeCode": "N64",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "教育机构",
+		"tradeCode": "JYJG",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教师",
+			"tradeCode": "O01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "学生",
+			"tradeCode": "O02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "校工",
+			"tradeCode": "O03",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "军训教官",
+			"tradeCode": "O04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "体育教师",
+			"tradeCode": "O05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "宗教人士",
+		"tradeCode": "ZJRS",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "寺庙及教堂管理人员",
+			"tradeCode": "P01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "宗教团体工作人员",
+			"tradeCode": "P02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "僧尼、道士、及传教人员",
+			"tradeCode": "P03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "邮政",
+		"tradeCode": "YZ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "内勤人员",
+			"tradeCode": "Q01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外勤邮务人员",
+			"tradeCode": "Q02",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "包裹搬运人员",
+			"tradeCode": "Q03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "司法",
+		"tradeCode": "SF",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "商业犯罪调查处理人员",
+			"tradeCode": "Q04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "法官、律师、书记员、翻译员",
+			"tradeCode": "Q05",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "电讯及电力",
+		"tradeCode": "DXJDL",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "负责顾问及设计工作之电机工程师",
+			"tradeCode": "Q08",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责监督及视察工作之电机工程师",
+			"tradeCode": "Q09",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责行政工作人员",
+			"tradeCode": "Q10",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "负责监督及视察工作人员",
+			"tradeCode": "Q11",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "住宅拉线工人",
+			"tradeCode": "Q12",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "办公室大厦及工厂之维修工人",
+			"tradeCode": "Q13",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "安装电表、修理电表",
+			"tradeCode": "Q14",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "发电厂之总工程师",
+			"tradeCode": "Q15",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "抄表工人",
+			"tradeCode": "Q16",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电力输送员",
+			"tradeCode": "Q17",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "技工、中汇站测试员、装配工人、总机拉线及维修工",
+			"tradeCode": "Q18",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "操作员及变压器操作员",
+			"tradeCode": "Q19",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "发电厂监督",
+			"tradeCode": "Q20",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "发电站工程师、涡轮机操作员或轮机房工作员",
+			"tradeCode": "Q21",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "发电站司炉工人",
+			"tradeCode": "Q22",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "督导",
+			"tradeCode": "Q23",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "地底工人及电板拉设工人、督察、巡视员",
+			"tradeCode": "Q25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "自来水(水利)",
+		"tradeCode": "ZLS(SL)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "Q26",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水坝、水库管理人员",
+			"tradeCode": "Q27",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水利工程设施人员",
+			"tradeCode": "Q28",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自来水管装修人员",
+			"tradeCode": "Q29",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "抄表员、收费员",
+			"tradeCode": "Q30",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自来水厂水质分析员(实地)",
+			"tradeCode": "Q31",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "瓦斯",
+		"tradeCode": "WS",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "工程师",
+			"tradeCode": "Q32",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "管线装修工",
+			"tradeCode": "Q33",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "抄表员、收费员",
+			"tradeCode": "Q34",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "检查员",
+			"tradeCode": "Q35",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "瓦斯器具制造工",
+			"tradeCode": "Q36",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "瓦斯分装工",
+			"tradeCode": "Q37",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "邮递业",
+		"tradeCode": "YDY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "快递人员(汽车)",
+			"tradeCode": "Q39",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "买卖",
+		"tradeCode": "MM",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "厨具商",
+			"tradeCode": "R01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "陶瓷器商",
+			"tradeCode": "R02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "古董商",
+			"tradeCode": "R03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "花卉商",
+			"tradeCode": "R04",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "银楼、当铺负责人、店员",
+			"tradeCode": "R05",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "米商",
+			"tradeCode": "R06",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "杂货商",
+			"tradeCode": "R07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "玻璃商",
+			"tradeCode": "R08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "果菜商",
+			"tradeCode": "R09",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "石材商",
+			"tradeCode": "R10",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "建材商",
+			"tradeCode": "R11",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "钢材商",
+			"tradeCode": "R12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "木材商",
+			"tradeCode": "R13",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "五金商",
+			"tradeCode": "R14",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "电器商",
+			"tradeCode": "R15",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "水电卫生器材商",
+			"tradeCode": "R16",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "家俱商",
+			"tradeCode": "R17",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "自行车买卖商",
+			"tradeCode": "R18",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "机车买卖商",
+			"tradeCode": "R19",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "汽车买卖商",
+			"tradeCode": "R20",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "车辆器材商(不含矿物油)",
+			"tradeCode": "R21",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "矿物油买卖商",
+			"tradeCode": "R22",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "眼镜商",
+			"tradeCode": "R23",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "食品商",
+			"tradeCode": "R24",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "文具商",
+			"tradeCode": "R25",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "布商",
+			"tradeCode": "R26",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "服饰买卖商",
+			"tradeCode": "R27",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "鱼贩",
+			"tradeCode": "R28",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "肉贩",
+			"tradeCode": "R29",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "药品买卖商",
+			"tradeCode": "R30",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "化学原料商",
+			"tradeCode": "R31",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "医疗机械仪器商",
+			"tradeCode": "R32",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "手工艺品买卖商",
+			"tradeCode": "R33",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "珠宝加工人员",
+			"tradeCode": "R34",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "煤气具商负责人、店员",
+			"tradeCode": "R35",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "煤气具商送货员",
+			"tradeCode": "R36",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "煤气具商装设工",
+			"tradeCode": "R37",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "液化气零售商负责人",
+			"tradeCode": "R38",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "液化气零售商店员",
+			"tradeCode": "R39",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "液化气零售商送货员",
+			"tradeCode": "R40",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "液化气零售商瓦斯分装工",
+			"tradeCode": "R41",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "液化气零售商旧货收购人员",
+			"tradeCode": "R42",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "文具食品服饰百货",
+		"tradeCode": "WJSPFSBH",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "店员",
+			"tradeCode": "R43",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "收银员",
+			"tradeCode": "R44",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "税务人员",
+			"tradeCode": "R45",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "银行、保险、信托、租赁",
+		"tradeCode": "YH、BX、XT、ZL",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般内勤人员",
+			"tradeCode": "S01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外务员",
+			"tradeCode": "S02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "收费员",
+			"tradeCode": "S03",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "调查员",
+			"tradeCode": "S04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "征信人员",
+			"tradeCode": "S05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "现金运送员、司机",
+			"tradeCode": "S06",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "自由业",
+		"tradeCode": "ZYY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "律师",
+			"tradeCode": "S07",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "会计师",
+			"tradeCode": "S08",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "代书(内勤)",
+			"tradeCode": "S09",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "经纪人(内勤)",
+			"tradeCode": "S10",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "外勤员",
+			"tradeCode": "S11",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "汽车美容业,装潢业",
+		"tradeCode": "QCMRY,ZHY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "一般工人(手工)",
+			"tradeCode": "S37",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "一般工人(机械)",
+			"tradeCode": "S38",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "家庭管理",
+		"tradeCode": "JTGL",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "家庭主妇",
+			"tradeCode": "T01",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "佣人,保姆",
+			"tradeCode": "T02",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "儿童",
+			"tradeCode": "T03",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "治安人员",
+		"tradeCode": "ZARY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "警卫行政及内勤人员",
+			"tradeCode": "U01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "监狱看守所管理人员",
+			"tradeCode": "U03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "调查局外勤人员",
+			"tradeCode": "U09",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "现役军人(含义务役官兵)",
+		"tradeCode": "XYJR(HYWYGB)",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "通勤之行政及内勤人员(国防部、三军总部、军校教官等)",
+			"tradeCode": "V01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "後勤补给及通讯地勤人员",
+			"tradeCode": "V02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "军医院官兵",
+			"tradeCode": "V03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "军事研究单位纸上设计人员",
+			"tradeCode": "V04",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "资讯业",
+		"tradeCode": "ZXY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "维护工程师",
+			"tradeCode": "W01",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "系统工程师",
+			"tradeCode": "W02",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "销售工程师",
+			"tradeCode": "W03",
+			"tradeCategory": "1",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "一般行业",
+		"tradeCode": "YBHY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "搬运工",
+			"tradeCode": "X04",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "质检员",
+			"tradeCode": "X05",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "仓库管理员",
+			"tradeCode": "X06",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "个体经营者及商贩",
+			"tradeCode": "Z99",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "高尔夫球",
+		"tradeCode": "GEFQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y01",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "高尔夫球球员",
+			"tradeCode": "Y02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "球僮",
+			"tradeCode": "Y03",
+			"tradeCategory": "2.5",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "保龄球",
+		"tradeCode": "BLQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y04",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "保龄球球员",
+			"tradeCode": "Y05",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "桌球",
+		"tradeCode": "ZQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y06",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "桌球球员",
+			"tradeCode": "Y07",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "羽球",
+		"tradeCode": "YQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y08",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "羽毛球球员",
+			"tradeCode": "Y09",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "游泳",
+		"tradeCode": "YY",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y10",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "游泳人员",
+			"tradeCode": "Y11",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "射箭",
+		"tradeCode": "SJ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y12",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "射箭人员",
+			"tradeCode": "Y13",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "网球",
+		"tradeCode": "WQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y14",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "网球球员",
+			"tradeCode": "Y15",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "垒球",
+		"tradeCode": "LQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y16",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "垒球 球员",
+			"tradeCode": "Y17",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "溜冰",
+		"tradeCode": "LB",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y18",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "溜冰人员",
+			"tradeCode": "Y19",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "射击",
+		"tradeCode": "SJ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y20",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "射击人员",
+			"tradeCode": "Y21",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "民俗体育活动",
+		"tradeCode": "MSTYHD",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y22",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "民俗体育活动人员",
+			"tradeCode": "Y23",
+			"tradeCategory": "2",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "举重",
+		"tradeCode": "JZ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y24",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "举重人员",
+			"tradeCode": "Y25",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "篮球",
+		"tradeCode": "LQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y26",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "篮球球员",
+			"tradeCode": "Y27",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "排球",
+		"tradeCode": "PQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y28",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "排球球员",
+			"tradeCode": "Y29",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "棒球",
+		"tradeCode": "BQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y30",
+			"tradeCategory": "4",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "棒球球员",
+			"tradeCode": "Y31",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "田径",
+		"tradeCode": "TJ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y32",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "参赛人员",
+			"tradeCode": "Y33",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "帆船",
+		"tradeCode": "FC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y38",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "驾乘人员",
+			"tradeCode": "Y39",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "划船",
+		"tradeCode": "HC",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y40",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "驾乘人员",
+			"tradeCode": "Y41",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "泛舟",
+		"tradeCode": "FZ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "驾乘人员",
+			"tradeCode": "Y43",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "巧固球",
+		"tradeCode": "QGQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y44",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "巧固球球员",
+			"tradeCode": "Y45",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "手球",
+		"tradeCode": "SQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y46",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "手球球员",
+			"tradeCode": "Y47",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "冰上曲棍球",
+		"tradeCode": "BSQGQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y56",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "橄榄球",
+		"tradeCode": "GLQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y58",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "乒乓球",
+		"tradeCode": "PPQ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y60",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "乒乓球球员",
+			"tradeCode": "Y61",
+			"tradeCategory": "3",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "击剑",
+		"tradeCode": "JJ",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "教练",
+			"tradeCode": "Y63",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  },
+	  {
+		"tradeName": "其它职业（详情见保单备注）",
+		"tradeCode": "QTZY（XQJBDBZ）",
+		"tradeCategory": null,
+		"subTrades": [
+		  {
+			"tradeName": "其它一类职业",
+			"tradeCode": "ZZ01",
+			"tradeCategory": "1",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "其它二类职业",
+			"tradeCode": "ZZ02",
+			"tradeCategory": "2",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "其它三类职业",
+			"tradeCode": "ZZ03",
+			"tradeCategory": "3",
+			"subTrades": null
+		  },
+		  {
+			"tradeName": "其它四类职业",
+			"tradeCode": "ZZ04",
+			"tradeCategory": "4",
+			"subTrades": null
+		  }
+		]
+	  }
+	],
+	"errCode": null,
+	"errMsg": null,
+	"status": 200,
+	"requestId": "200326024629748-554f7eb7",
+	"more": null
+  }

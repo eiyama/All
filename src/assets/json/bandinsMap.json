@@ -1,0 +1,606 @@
+{
+  "result": {
+    "title": "全国  车险指标统计",
+    "data": [
+      {
+        "code": ".1.93.",
+        "name": "北京乐信保代",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "北京市",
+          "cityName": "北京市",
+          "districtName": "西城区",
+          "areaCode": "110102"
+        },
+        "coordinate": {
+          "longitude": 116.37319010401802,
+          "latitude": 39.934280143708513
+        }
+      },
+      {
+        "code": ".1.48.",
+        "name": "京东金融",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "北京市",
+          "cityName": "北京市",
+          "districtName": "大兴区",
+          "areaCode": "110115"
+        },
+        "coordinate": {
+          "longitude": 116.42519459737912,
+          "latitude": 39.652790118364464
+        }
+      },
+      {
+        "code": ".1.25.",
+        "name": "武汉东风保险经纪有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "湖北省",
+          "cityName": "武汉市",
+          "districtName": "",
+          "areaCode": "420100"
+        },
+        "coordinate": {
+          "longitude": 114.31620010268132,
+          "latitude": 30.58108412692075
+        }
+      },
+      {
+        "code": ".1.25.26.",
+        "name": "武汉分公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "湖北省",
+          "cityName": "武汉市",
+          "districtName": "",
+          "areaCode": "420100"
+        },
+        "coordinate": {
+          "longitude": 114.31620010268132,
+          "latitude": 30.58108412692075
+        }
+      },
+      {
+        "code": ".1.40.",
+        "name": "武汉贤良",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "湖北省",
+          "cityName": "武汉市",
+          "districtName": "",
+          "areaCode": "420100"
+        },
+        "coordinate": {
+          "longitude": 114.31620010268132,
+          "latitude": 30.58108412692075
+        }
+      },
+      {
+        "code": ".1.28.",
+        "name": "中联保险经纪",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "湖南省",
+          "cityName": "长沙市",
+          "districtName": "",
+          "areaCode": "430100"
+        },
+        "coordinate": {
+          "longitude": 112.9793527876505,
+          "latitude": 28.213478230853219
+        }
+      },
+      {
+        "code": ".1.5.7.",
+        "name": "广州分公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "广州市",
+          "districtName": "",
+          "areaCode": "440100"
+        },
+        "coordinate": {
+          "longitude": 113.30764967515182,
+          "latitude": 23.12004910207623
+        }
+      },
+      {
+        "code": ".1.56.",
+        "name": "测试网点",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "广州市",
+          "districtName": "",
+          "areaCode": "440100"
+        },
+        "coordinate": {
+          "longitude": 113.30764967515182,
+          "latitude": 23.12004910207623
+        }
+      },
+      {
+        "code": ".1.66.",
+        "name": "玖福保代",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "广州市",
+          "districtName": "越秀区",
+          "areaCode": "440104"
+        },
+        "coordinate": {
+          "longitude": 113.28783302666308,
+          "latitude": 23.139277859339472
+        }
+      },
+      {
+        "code": ".1.68.",
+        "name": "东唐咨询",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "广州市",
+          "districtName": "番禺区",
+          "areaCode": "440113"
+        },
+        "coordinate": {
+          "longitude": 113.41679952964884,
+          "latitude": 22.934590795797931
+        }
+      },
+      {
+        "code": ".1.30.",
+        "name": "深圳佳鸿",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "",
+          "areaCode": "440300"
+        },
+        "coordinate": {
+          "longitude": 114.0259736573215,
+          "latitude": 22.546053546205247
+        }
+      },
+      {
+        "code": ".1.44.",
+        "name": "腾晟保险代理",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "",
+          "areaCode": "440300"
+        },
+        "coordinate": {
+          "longitude": 114.0259736573215,
+          "latitude": 22.546053546205247
+        }
+      },
+      {
+        "code": ".1.50.",
+        "name": "海豚经纪",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "",
+          "areaCode": "440300"
+        },
+        "coordinate": {
+          "longitude": 114.0259736573215,
+          "latitude": 22.546053546205247
+        }
+      },
+      {
+        "code": ".1.95.",
+        "name": "泛海在线",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "罗湖区",
+          "areaCode": "440303"
+        },
+        "coordinate": {
+          "longitude": 114.15639529324216,
+          "latitude": 22.581934478847788
+        }
+      },
+      {
+        "code": ".1.",
+        "name": "邦德科技",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "南山区",
+          "areaCode": "440305"
+        },
+        "coordinate": {
+          "longitude": 113.95072266573632,
+          "latitude": 22.558887751082636
+        }
+      },
+      {
+        "code": ".1.63.",
+        "name": "深圳江泰",
+        "indicators": {
+          "premium": 16610.77,
+          "policiesQuantity": 2
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "南山区",
+          "areaCode": "440305"
+        },
+        "coordinate": {
+          "longitude": 113.95072266573632,
+          "latitude": 22.558887751082636
+        }
+      },
+      {
+        "code": ".1.42.",
+        "name": "广州网点",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "宝安区",
+          "areaCode": "440306"
+        },
+        "coordinate": {
+          "longitude": 113.93001313569306,
+          "latitude": 22.707432793082347
+        }
+      },
+      {
+        "code": ".1.72.",
+        "name": "深圳分公司",
+        "indicators": {
+          "premium": 20990.0,
+          "policiesQuantity": 2
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "宝安区",
+          "areaCode": "440306"
+        },
+        "coordinate": {
+          "longitude": 113.93001313569306,
+          "latitude": 22.707432793082347
+        }
+      },
+      {
+        "code": ".1.75.",
+        "name": "宝安分公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "深圳市",
+          "districtName": "宝安区",
+          "areaCode": "440306"
+        },
+        "coordinate": {
+          "longitude": 113.93001313569306,
+          "latitude": 22.707432793082347
+        }
+      },
+      {
+        "code": ".1.15.",
+        "name": "佛山利泰",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "佛山市",
+          "districtName": "",
+          "areaCode": "440600"
+        },
+        "coordinate": {
+          "longitude": 113.1340256353934,
+          "latitude": 23.035094840514382
+        }
+      },
+      {
+        "code": ".1.79.",
+        "name": "佛山艾威",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "佛山市",
+          "districtName": "",
+          "areaCode": "440600"
+        },
+        "coordinate": {
+          "longitude": 113.1340256353934,
+          "latitude": 23.035094840514382
+        }
+      },
+      {
+        "code": ".1.5.",
+        "name": "佛山佳安",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "佛山市",
+          "districtName": "禅城区",
+          "areaCode": "440604"
+        },
+        "coordinate": {
+          "longitude": 113.1340256353934,
+          "latitude": 23.035094840514382
+        }
+      },
+      {
+        "code": ".1.5.6.",
+        "name": "佛山分公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "佛山市",
+          "districtName": "禅城区",
+          "areaCode": "440604"
+        },
+        "coordinate": {
+          "longitude": 113.1340256353934,
+          "latitude": 23.035094840514382
+        }
+      },
+      {
+        "code": ".1.32.",
+        "name": "佛山寰博",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "佛山市",
+          "districtName": "禅城区",
+          "areaCode": "440604"
+        },
+        "coordinate": {
+          "longitude": 113.07042319496834,
+          "latitude": 23.004210165991289
+        }
+      },
+      {
+        "code": ".1.87.",
+        "name": "深圳市富仕航科技有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "惠州市",
+          "districtName": "",
+          "areaCode": "441300"
+        },
+        "coordinate": {
+          "longitude": 114.410658079971,
+          "latitude": 23.113539852408419
+        }
+      },
+      {
+        "code": ".1.10.",
+        "name": "东莞创世纪",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "东莞市",
+          "districtName": "",
+          "areaCode": "441900"
+        },
+        "coordinate": {
+          "longitude": 113.7805391649497,
+          "latitude": 22.988754874024419
+        }
+      },
+      {
+        "code": ".1.11.",
+        "name": "广东创悦保险代理股份有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "东莞市",
+          "districtName": "",
+          "areaCode": "441900"
+        },
+        "coordinate": {
+          "longitude": 113.76244289837248,
+          "latitude": 23.018217460874563
+        }
+      },
+      {
+        "code": ".1.19.",
+        "name": "广东协诚保险代理有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "东莞市",
+          "districtName": "",
+          "areaCode": "441900"
+        },
+        "coordinate": {
+          "longitude": 113.76343399075655,
+          "latitude": 23.043023815368237
+        }
+      },
+      {
+        "code": ".1.36.",
+        "name": "东莞市兴隆汽车贸易有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "广东省",
+          "cityName": "东莞市",
+          "districtName": "",
+          "areaCode": "441900"
+        },
+        "coordinate": {
+          "longitude": 113.76343399075655,
+          "latitude": 23.043023815368237
+        }
+      },
+      {
+        "code": ".1.3.52.",
+        "name": "海南分公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "海南省",
+          "cityName": "三亚市",
+          "districtName": "",
+          "areaCode": "460200"
+        },
+        "coordinate": {
+          "longitude": 109.52277128135884,
+          "latitude": 18.257775914897483
+        }
+      },
+      {
+        "code": ".1.3.",
+        "name": "江泰保险代理有限公司",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "海南省",
+          "cityName": "",
+          "districtName": "澄迈县",
+          "areaCode": "469023"
+        },
+        "coordinate": {
+          "longitude": 110.1279952644513,
+          "latitude": 19.952420491120904
+        }
+      },
+      {
+        "code": ".1.91.",
+        "name": "贵州人保",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "贵州省",
+          "cityName": "贵阳市",
+          "districtName": "",
+          "areaCode": "520100"
+        },
+        "coordinate": {
+          "longitude": 106.70917709617579,
+          "latitude": 26.62990674144093
+        }
+      },
+      {
+        "code": ".1.91.",
+        "name": "贵州人保",
+        "indicators": {
+          "premium": 0.0,
+          "policiesQuantity": 0
+        },
+        "location": {
+          "provinceName": "贵州省",
+          "cityName": "贵阳市",
+          "districtName": "",
+          "areaCode": "520100"
+        },
+        "coordinate": {
+          "longitude": 106.70917709617579,
+          "latitude": 26.62990674144093
+        }
+      }
+    ]
+  },
+  "errCode": null,
+  "errMsg": null,
+  "status": 200,
+  "requestId": "190910085714525-cdc2f17f",
+  "more": null
+}

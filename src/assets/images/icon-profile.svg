@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="27" cy="27" r="27"></circle>
+    </defs>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-20.000000, -84.000000)">
+        <g id="_719218720" transform="translate(20.000000, 84.000000)">
+            <g id="icon-profile">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#E6ECF4" xlink:href="#path-1"></use>
+                <path d="M26.8470038,15.0013201 C30.0640556,14.9460385 33.0607231,16.6305038 34.6856879,19.407545 C36.3106527,22.1845862 36.3111517,25.6222347 34.6869932,28.3997475 C33.0628346,31.1772604 30.0666564,32.8625955 26.8495887,32.808248 C21.9914605,32.7261772 18.0959434,28.7648729 18.0952381,23.9060546 C18.0945328,19.0472363 21.9888997,15.0848013 26.8470038,15.0013201 L26.8470038,15.0013201 Z M38,39 L16,39 L16,36.7417783 C16,35.7844093 16.8442379,35 17.8772494,35 L36.1227506,35 C37.1557621,35 38,35.7844093 38,36.7417783 L38,39 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

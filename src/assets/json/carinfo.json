@@ -1,0 +1,110 @@
+{
+  "result": {
+    "insBatchNo": "string,批次编码",
+    "quotationNo": "string,保险公司报价流程",
+    "insureNo": "string,总投保单号",
+    "policyNo": "string,保单号",
+    "premium": "double,总保费",
+    "remark": "string,错误提示",
+    "insuredTime": "date-time,承保时间",
+    "insureStatus": "QuotedFailed",
+    "insCorp": {
+      "shortName": "string,保险公司简称",
+      "code": "string,编码"
+    },
+    "insCity": {
+      "shortName": "string,投保城市简称",
+      "code": "string,投保城市编码"
+    },
+    "insChannel": {
+      "insCorpCode": "string,保险公司编码",
+      "insCorpShortName": "string,保险公司简称",
+      "insCityCode": "string,投保城市编码",
+      "insCityShortName": "string,投保城市简称",
+      "channelName": "string,渠道名称"
+    },
+    "car": {
+      "owner": {
+        "name": "string,姓名",
+        "phone": "string,电话号码",
+        "idNo": "string,证件号",
+        "idType": "IdCard",
+        "relationType": "Person",
+        "birthday": "date-time,生日",
+        "gender": "Male"
+      },
+      "plateNo": "string,车牌号码",
+      "vin": "string,车架号",
+      "engineNo": "string,发动机号码",
+      "brandName": "string,品牌名称",
+      "model": "string,行驶证品牌型号",
+      "makerModel": "string,精友车型号",
+      "vehicleModelCode": "string,车型编码",
+      "purchasePrice": "double,车辆销售价格",
+      "analogyCarPrice": "double,类比价",
+      "year": "integer,车辆年份",
+      "passengerCapacity": "integer,载客量",
+      "registerDate": "date-time,注册日期",
+      "remark": "string,车辆备注",
+      "exhaustMeasure": "double,尾气排量",
+      "isChangedOwner": "boolean,是否过户车",
+      "changedOwnerDate": "date-time,过户日期",
+      "aliasName": "string,车型别名",
+      "fullPriceModel": "string,车型价格"
+    },
+    "applicant": {
+      "name": "string,姓名",
+      "phone": "string,电话号码",
+      "idNo": "string,证件号",
+      "idType": "IdCard",
+      "relationType": "Person",
+      "birthday": "date-time,生日",
+      "gender": "Male"
+    },
+    "insured": {
+      "name": "string,姓名",
+      "phone": "string,电话号码",
+      "idNo": "string,证件号",
+      "idType": "IdCard",
+      "relationType": "Person",
+      "birthday": "date-time,生日",
+      "gender": "Male"
+    },
+    "bzRFQ": {
+      "vehicleTax": {
+        "totalTax": "double,车船税总额",
+        "tax": "double,车船税：当年应缴",
+        "preTax": "double,车船税：往年补缴",
+        "lateFeesOfTax": "double,车船税：滞纳金"
+      },
+      "beginDate": "date-time,起保日期",
+      "endDate": "date-time,终保日期",
+      "insureNo": "string,投保单号",
+      "policyNo": "string,保单号",
+      "premium": "double,保费",
+      "insDiscount": "double,总折扣"
+    },
+    "bsRFQ": {
+      "bsRiskKindItemsRFQ": [
+        {
+          "coverage": "string,保额/（国产/进口）",
+          "riskKindItemCode": "string,险别编码",
+          "riskKindItemName": "string,险别名称",
+          "premium": "double,保费",
+          "isDeductible": "boolean,是否不计免赔险",
+          "quantity": "integer,单位数量",
+          "deductiblePremium": "double,不计免赔险保费"
+        }
+      ],
+      "beginDate": "date-time,起保日期",
+      "endDate": "date-time,终保日期",
+      "insureNo": "string,投保单号",
+      "policyNo": "string,保单号",
+      "premium": "double,保费",
+      "insDiscount": "double,总折扣"
+    }
+  },
+  "errCode": "string",
+  "errMsg": "string",
+  "status": "integer"
+}

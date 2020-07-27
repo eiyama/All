@@ -1,0 +1,158 @@
+{
+    "result": [
+        {
+            "type": "机动车辆保险",
+            "code": "JDCJTSGZRQZBX",
+            "name": "交强险",
+            "shortName": "交强险",
+            "insKindRisks": [
+                {
+                    "code": "JQX",
+                    "name": "交强险",
+                    "hasDeductible": false,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                }
+            ]
+        },
+        {
+            "type": "机动车辆保险",
+            "code": "JDCZHSYBX",
+            "name": "商业险",
+            "shortName": "商业险",
+            "insKindRisks": [
+                {
+                    "code": "CSX",
+                    "name": "车损险",
+                    "hasDeductible": true,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                },
+                {
+                    "code": "SZX",
+                    "name": "三者险",
+                    "hasDeductible": true,
+                    "optionCoverages": [
+                        "50000",
+                        "100000",
+                        "150000",
+                        "200000",
+                        "300000",
+                        "500000",
+                        "1000000",
+                        "1500000",
+                        "2000000"
+                    ],
+                    "defaultOptionCoverage": "50000",
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                },
+                {
+                    "code": "SJZRX",
+                    "name": "司机责任险",
+                    "hasDeductible": true,
+                    "optionCoverages": [
+                        "10000",
+                        "20000",
+                        "30000",
+                        "50000",
+                        "100000",
+                        "200000",
+                        "300000"
+                    ],
+                    "defaultOptionCoverage": "10000",
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                },
+                {
+                    "code": "CKZRX",
+                    "name": "乘客责任险",
+                    "hasDeductible": true,
+                    "optionCoverages": [
+                        "10000",
+                        "20000",
+                        "30000",
+                        "50000",
+                        "100000",
+                        "200000",
+                        "300000"
+                    ],
+                    "defaultOptionCoverage": "10000",
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                },
+                {
+                    "code": "DQX",
+                    "name": "盗抢险",
+                    "hasDeductible": true,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": null
+                },
+                {
+                    "code": "WFZDDSF",
+                    "name": "无法找到第三方特约险",
+                    "hasDeductible": false,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": true,
+                    "mainInsuranceItemCode": "CSX"
+                },
+                {
+                    "code": "BLX",
+                    "name": "玻璃险",
+                    "hasDeductible": false,
+                    "optionCoverages": [
+                        "国产",
+                        "进口"
+                    ],
+                    "defaultOptionCoverage": "国产",
+                    "isMainInsuranceItem": false,
+                    "mainInsuranceItemCode": "CSX"
+                },
+                {
+                    "code": "ZRX",
+                    "name": "自燃险",
+                    "hasDeductible": true,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": false,
+                    "mainInsuranceItemCode": "CSX"
+                },
+                {
+                    "code": "HHX",
+                    "name": "划痕险",
+                    "hasDeductible": true,
+                    "optionCoverages": [
+                        "2000",
+                        "5000",
+                        "10000",
+                        "20000"
+                    ],
+                    "defaultOptionCoverage": "2000",
+                    "isMainInsuranceItem": false,
+                    "mainInsuranceItemCode": "CSX"
+                },
+                {
+                    "code": "SSX",
+                    "name": "涉水险",
+                    "hasDeductible": true,
+                    "optionCoverages": [],
+                    "defaultOptionCoverage": null,
+                    "isMainInsuranceItem": false,
+                    "mainInsuranceItemCode": "CSX"
+                }
+            ]
+        }
+    ],
+    "page": null,
+    "errCode": null,
+    "errMsg": null,
+    "status": 200,
+    "more": null
+} 

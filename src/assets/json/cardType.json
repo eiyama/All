@@ -1,0 +1,85 @@
+{
+  "result": [
+    {
+      "parentType": {
+        "text": "Person",
+        "value": 1,
+        "display": "个人"
+      },
+      "items": [
+        {
+          "text": "IdCard",
+          "value": 0,
+          "display": "中华人民共和国身份证"
+        },
+        {
+          "text": "MacHKerPassport",
+          "value": 1,
+          "display": "港澳居民来往内地通行证"
+        },
+        {
+          "text": "TaiwanesePassport",
+          "value": 2,
+          "display": "台胞证"
+        },
+        {
+          "text": "Soldier",
+          "value": 3,
+          "display": "士兵证/军官证/警官证"
+        },
+        {
+          "text": "ChinaPassPort",
+          "value": 4,
+          "display": "中国护照'"
+        },
+        {
+          "text": "ForeignPassPort",
+          "value": 5,
+          "display": "外国护照"
+        }
+      ]
+    },
+    {
+      "parentType": {
+        "text": "Enterprise",
+        "value": 2,
+        "display": "企业单位"
+      },
+      "items": [
+        {
+          "text": "Organization",
+          "value": 3,
+          "display": "机构代码"
+        },
+        {
+          "text": "CreditCode",
+          "value": 4,
+          "display": "统一社会信用代码"
+        }
+      ]
+    },
+    {
+      "parentType": {
+        "text": "Organization",
+        "value": 3,
+        "display": "机关单位"
+      },
+      "items": [
+        {
+          "text": "Organization",
+          "value": 3,
+          "display": "机构代码"
+        },
+        {
+          "text": "CreditCode",
+          "value": 4,
+          "display": "统一社会信用代码"
+        }
+      ]
+    }
+  ],
+  "errCode": null,
+  "errMsg": null,
+  "status": 200,
+  "more": null
+}

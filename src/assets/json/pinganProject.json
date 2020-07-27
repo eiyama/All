@@ -1,0 +1,235 @@
+{
+    "Products": [
+      {
+        "CityCode": "530000",
+        "ProductCode": "MP10120101",
+        "ProductName": "车主无忧（华康代理云南）",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "370000",
+        "ProductCode": "MP10120102",
+        "ProductName": "车主无忧（华康代理山东）",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "450000,440000,440300,350200",
+        "ProductCode": "MP10120103",
+        "ProductName": "车主无忧（华康代理广西、广东、深圳、厦门）",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "130000",
+        "ProductCode": "MP10120104",
+        "ProductName": "车主无忧（华康代理河北)",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "370200",
+        "ProductCode": "MP10120105",
+        "ProductName": "车主无忧（华康代理青岛)",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "330000",
+        "ProductCode": "MP10120106",
+        "ProductName": "车主无忧（华康代理浙江)",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      },
+      {
+        "CityCode": "350000",
+        "ProductCode": "MP10120107",
+        "ProductName": "车主无忧（华康代理福建)",
+        "Packages": [
+          {
+            "PackageCode": "PK00028933",
+            "PackageName": "方案一"
+          },
+          {
+            "PackageCode": "PK00028934",
+            "PackageName": "方案二"
+          },
+          {
+            "PackageCode": "PK00028935",
+            "PackageName": "方案三"
+          },
+          {
+            "PackageCode": "PK00028936",
+            "PackageName": "方案四"
+          },
+          {
+            "PackageCode": "PK00028937",
+            "PackageName": "方案五"
+          }
+        ]
+      }
+    ],
+    "RiskInfos": [
+      {
+        "Name": "车牌号",
+        "Code": "vehicleLicenceCode",
+        "InputType": 2,
+        "Options": null
+      },
+      {
+        "Name": "车架号",
+        "Code": "vehicleFrameNo",
+        "InputType": 2,
+        "Options": null
+      },
+      {
+        "Name": "使用性质",
+        "Code": "useAttribute",
+        "InputType": 4,
+        "Options": {
+          "01": "营业",
+          "02": "非营业"
+        }
+      },
+      {
+        "Name": "车辆种类",
+        "Code": "vehicle",
+        "InputType": 4,
+        "Options": {
+          "B": "货车"
+        }
+      },
+      {
+        "Name": "车辆类型",
+        "Code": "vehicleDetail ",
+        "InputType": 4,
+        "Options": {
+          "B012": "二吨以下货车",
+          "B022": "二吨至五吨以下货车",
+          "B032": "五吨至十吨以下货车",
+          "B042": "十吨以上货车"
+        }
+      }
+    ]
+  }

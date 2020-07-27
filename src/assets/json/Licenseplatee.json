@@ -1,0 +1,37 @@
+
+
+{
+	"result":[			
+			{ "text": "Bus",  "value": 1,  "display": "大型汽车"},
+			{ "text": "SmallBus",  "value": 2,  "display": "小型汽车"},
+			{ "text": "EmbassyCar",  "value": 3,  "display": "使馆汽车"},
+			{ "text": "ConsulateCar",  "value": 4,  "display": "领馆汽车"},
+			{ "text": "OverseasCar",  "value": 5,  "display": "使馆汽车"},
+			{ "text": "ForeignCar",  "value": 6,  "display": "外籍汽车"},
+			{ "text": "Motorcycles",  "value": 7,  "display": "两、三轮摩托车"},
+			{ "text": "Mopeds",  "value": 8,  "display": "轻便摩托车"},
+			{ "text": "EmbassyMotorcycle",  "value": 9,  "display": "使馆摩托车"},
+			{ "text": "ConsulateMotorcycle",  "value": 10,  "display": "领馆摩托车"},
+			{ "text": "OverseasMotorcycle",  "value": 11,  "display": "境外摩托车"},
+			{ "text": "ForeignMotorcycle",  "value": 12,  "display": "外籍摩托车"},
+			{ "text": "AgriculturalVehicles",  "value": 13,  "display": "农用运输车"},
+			{ "text": "Tractor",  "value": 14,  "display": "拖拉机"},
+			{ "text": "Trailer",  "value": 15,  "display": "挂车"},
+			{ "text": "CoachCar",  "value": 16,  "display": "教练汽车"},
+			{ "text": "CoachMotorcycle",  "value": 17,  "display": "教练摩托车"},
+			{ "text": "TestCar",  "value": 18,  "display": "试验汽车"},
+			{ "text": "TestMotorcycle",  "value": 19,  "display": "试验摩托车"},
+			{ "text": "TemporaryEntryCar",  "value": 20,  "display": "使馆汽车"},
+			{ "text": "TemporaryEntryMotorcycle",  "value": 21,  "display": "临时入境摩托车"},
+			{ "text": "TemporaryVehicle",  "value": 22,  "display": "临时行驶车"},
+			{ "text": "PoliceCar",  "value": 23,  "display": "公安警车"},
+			{ "text": "Other",  "value": 24,  "display": "其它车型"},
+			{ "text": "SpecialMachinery",  "value": 25,  "display": "专用机械"},
+			{ "text": "PoliceMotorcycle",  "value": 26,  "display": "警备摩托车"},
+			{ "text": "LargePoliceCar",  "value": 27,  "display": "大型警车"},
+			{ "text": "ArmyPoliceNumber",  "value": 31,  "display": "武警号牌"},
+			{ "text": "ArmyNumber",  "value": 32,  "display": "军队号牌"},
+			{ "text": "NewEnergyVehicles",  "value": 51,  "display": "大型新能源汽车"},
+			{ "text": "SmallNewEnergyVehicles",  "value": 52,  "display": "小型新能源汽车"}
+		]
+}

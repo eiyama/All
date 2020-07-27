@@ -1,0 +1,224 @@
+{
+	"result": {
+	  "id": 8,
+	  "insCorpName": "中国平安",
+	  "name": "环游四海",
+	  "code": "Allianz-AGT",
+	  "type": "线上销售",
+	  "category": "财产险",
+	  "defaultInsuranceAmount": 0.0,
+	  "defaultPremium": 0.0,
+	  "description": "",
+	  "modifier": "管理员",
+	  "modifiedTime": "2020-03-05 15:38:06",
+	  "insCorpCode": "Allianz",
+	  "categoryKey": "WB6371003393065478220113",
+	  "schema": {
+		"ProductList": [
+		  {
+			"ProductName": "环游四海 - 京东安联全球旅行保障计划",
+			"ProductFullName": "环游四海",
+			"BannerList": [
+			  {
+				"Url": "https://img02.az.jd.com/az360/m/wpimage1/banner-zhenai2020_e1656313.png",
+				"Name": "",
+				"Title": ""
+			  }
+			],
+			"LabelList": [
+			  {
+				"Title": "承保范围",
+				"Content": "申根签证国家",
+				"Remark": "奥地利、比利时、捷克、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、拉脱维亚、立陶宛、卢森堡、马耳他、荷兰、挪威、波兰、葡萄牙、斯洛伐克、斯洛文尼亚、西班牙、瑞典、瑞士、列支敦士登"
+			  },
+			  {
+				"Title": "投保年龄",
+				"Content": "60天-90周岁",
+				"Remark": ""
+			  }
+			],
+			"SafeguardList": [
+			  {
+				"Title": "<b>意外及医疗保障</b>",
+				"Content": [
+				  
+				],
+				"SubItems": [
+				  {
+					"Title": "意外身故及伤残",
+					"Content": [
+					  "旅行期间被保险人因遭受意外伤害事故导致身故、伤残的,保险公司依照合同约定给付保险金,伤残根据伤残等级按比例赔付,累计给付保险金额不超过保单载明的金额。<b>71至80周岁保额减半,81至90周岁保额为保单载明金额的25%。（不承保因中暑、高原反应、猝死等导致的身故伤残,详情参见保险条款）</b>"
+					]
+				  }
+				]
+			  }
+			],
+			"SeePDFList": [
+			  {
+				"Title": "保险条款",
+				"Url": "https://img02.az.jd.com/az360/doc/爱旅行-安联全球旅行保险条款（20191203）.pdf"
+			  }
+			],
+			"SpecialRemarkList": [
+			  {
+				"Title": "",
+				"Content": [
+				  "被保险人的投保年龄为出生满60天至90周岁。",
+				  "未满18周岁的未成年人的身故保险金额不超过银保监会规定的限额。",
+				  "<b>保单生效时年满71-80周岁的被保险人</b>,其涉及的身故、伤残及医疗费用相关保险的保险金额为上述保障计划中所载保险金额的一半(50%),保险费维持不变。保单生效时年满81-90周岁的被保险人,其涉及的身故、伤残及医疗费用相关保险的保险金额为上述保障计划中所载保险金额的四分之一(25%),保险费维持不变。"
+				],
+				"SubItems": [
+				  
+				]
+			  },
+			  {
+				"Title": "碎屏相关投保须知",
+				"Content": [
+				  "在保险期限内,每一个身份证件号只能为一台手机投保且每一台手机仅限投保一份本保险产品。投保时,被保险人应如实提供姓名、身份证件号、手机品牌及机型等信息。发生保险事故后,被保险人申请维修的手机信息需与投保时提供的保持一致,否则保险人不承担任何赔偿责任。",
+				  "在保险期限内,被保险人境外旅行期间,因发生保险合同列明的意外事故,导致您投保的手机屏幕：碎裂或浸液损坏,并通过保险人指定的中国大陆境内维修服务商进行检测及维修更换屏幕的,保险人在约定的保障金额内为被保险人提供一次更换屏幕维修服务。"
+				],
+				"SubItems": [
+				  
+				]
+			  }
+			],
+			"ImageList": [
+			  {
+				"Url": "",
+				"Name": "",
+				"Title": ""
+			  }
+			],
+			"PackageList": [
+			  {
+				"PackageCodes": [
+				  "AGTZP",
+				  "AGTZAP"
+				],
+				"PackageName": "郑和计划",
+				"PlanInfos": [
+				  {
+					"PlanName": "意外及医疗保障",
+					"TermName": "意外及医疗保障",
+					"DutyInfos": [
+					  {
+						"DutyName": "意外身故及伤残",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 20
+					  },
+					  {
+						"DutyName": "猝死保障",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 0
+					  },
+					  {
+						"DutyName": "公共交通工具意外身故及伤残",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 0
+					  },
+					  {
+						"DutyName": "自驾车意外身故及伤残",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 0
+					  },
+					  {
+						"DutyName": "医疗费用<b>（含门诊和住院）</b>",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 5
+					  },
+					  {
+						"DutyName": "每日住院津贴<b>（30日为限）</b>",
+						"InsuredAmountUnit": "元/天",
+						"InsuredAmount": 100
+					  },
+					  {
+						"DutyName": "绑架及非法拘禁每日津贴",
+						"InsuredAmountUnit": "元/天",
+						"InsuredAmount": 400
+					  },
+					  {
+						"DutyName": "传染病强制隔离每日津贴",
+						"InsuredAmountUnit": "元/天",
+						"InsuredAmount": 0
+					  }
+					]
+				  },
+				  {
+					"PlanName": "救援服务",
+					"TermName": "救援服务",
+					"DutyInfos": [
+					  {
+						"DutyName": "紧急医疗运送和送返",
+						"InsuredAmountUnit": "万元",
+						"InsuredAmount": 40,
+						"DutyPrice": 40
+					  }
+					]
+				  }
+				]
+			  }
+			],
+			"HealthNoticeList": [
+			  {
+				"Content": "被保险人投保时是否正进行任何健康咨询、药物治疗、外科手术,但不包括普通感冒、流感或敏感症；或考虑在投保后3个月内寻求诊疗、检查、测试、住院治疗或外科手术？",
+				"Options": [
+				  {
+					"Text": "是",
+					"Value": "true"
+				  },{
+					"Text": "否",
+					"Value": "false"
+				  }
+				],
+				"InputType": 8
+			  },
+			  {
+				"Content": "意外身故及伤残保额增加",
+				"Options": [
+				  {
+					"Text": "是",
+					"Value": "true"
+				  },{
+					"Text": "否",
+					"Value": "false"
+				  }
+				],
+				"InputType": 8
+			  }
+			],
+			"TargetObjectList": [
+			  {
+				"Code": "SocialSecurity",
+				"Content": "有无社保",
+				"Options": [
+				  {
+					"Text": "无",
+					"Value": "0"
+				  },{
+					"Text": "有",
+					"Value": "1"
+				  }
+				],
+				"Remark": ""
+			  },
+			  {
+				"Code": "SocialSecurity",
+				"Content": "请选择您的旅行期间",
+				"Options": [
+				  {
+					"Text": "自选日期",
+					"Value": "0"
+				  },{
+					"Text": "全年计划",
+					"Value": "1"
+				  }
+				],
+				"Remark": "自选日期：单次出行1-180天可选<br>全年计划：可承保全年多次出行,每次出行数不超过183天。"
+			  }
+			]
+		  }
+		]
+	  }
+	},
+	"status": 200
+  }
