@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@vant/touch-emulator": "^1.2.0",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "echarts": "^4.2.1",
     "element-ui": "^2.4.11",
